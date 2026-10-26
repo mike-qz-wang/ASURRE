@@ -1,0 +1,1095 @@
+[
+  {
+    "response_id": "SNAP 2015 SHIFT ",
+    "fields": {
+      "Q16": {
+        "text": "Too many projects from the PI",
+        "label": 0,
+        "original_text": "Too many projects from the PI"
+      },
+      "Q55": {
+        "text": "How short 5 years truly is.",
+        "label": 0,
+        "original_text": "How short 5 years truly is."
+      },
+      "Q41": {
+        "text": "Science Education/Outreach for the general public",
+        "label": 0,
+        "original_text": "Science Education/Outreach for the general public"
+      },
+      "Q17": {
+        "text": "Intellectual challenge",
+        "label": 0,
+        "original_text": "Intellectual challenge"
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 4,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "SNAP 2015 SHIFT ",
+    "fields": {
+      "Q17": {
+        "text": "Working with interesting and bright people",
+        "label": 0,
+        "original_text": "Working with interesting and bright people"
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 1,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "Smartphone",
+    "fields": {
+      "Q26": {
+        "text": "Good",
+        "label": 0,
+        "original_text": "Good"
+      },
+      "Q16": {
+        "text": "No",
+        "label": 0,
+        "original_text": "No"
+      },
+      "Q55": {
+        "text": "It is difficult to get a job",
+        "label": 0,
+        "original_text": "It is difficult to get a job"
+      },
+      "Q41": {
+        "text": "Research",
+        "label": 0,
+        "original_text": "Research"
+      },
+      "Q17": {
+        "text": "Intellectual challenge",
+        "label": 0,
+        "original_text": "Intellectual challenge"
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 5,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "SNAP 2015 SHIFT ",
+    "fields": {
+      "Q26": {
+        "text": "Improvable",
+        "label": 0,
+        "original_text": "Improvable"
+      },
+      "Q55": {
+        "text": "nothing",
+        "label": 0,
+        "original_text": "nothing"
+      },
+      "Q41": {
+        "text": "Non-scientific",
+        "label": 0,
+        "original_text": "Non-scientific"
+      },
+      "Q17": {
+        "text": "University/academic environment",
+        "label": 0,
+        "original_text": "University/academic environment"
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 4,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "Smartphone",
+    "fields": {
+      "Q17": {
+        "text": "Intellectual challenge",
+        "label": 0,
+        "original_text": "Intellectual challenge"
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 1,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "SNAP 2015 SHIFT ",
+    "fields": {
+      "Q26": {
+        "text": "There are some differences depending on the field of study - different number of publications required for graduation; different study inspections by the doctoral committee; ...",
+        "label": 0,
+        "original_text": "There are some differences depending on the field of study - different number of publications required for graduation; different study inspections by the doctoral committee; ..."
+      },
+      "Q16": {
+        "text": "Significant conflicts and power imbalances between supervisors and students, including disparagement of supervisors, their work, and grants, as well as restricted access to laboratories and equipment. A lack of acceptance and understanding of modern methodological approaches, such as the tension between microscopy and molecular biology. Exploitation of PhD students as cheap labor and abuse of authority by those in positions of power. Continuously rising rental prices and cost of living driven by the large student population in the city.",
+        "label": 1,
+        "original_text": "Big disagreements and conflicts between superiors influencing students (disparage of supervisors/work/grants; preventing access to laboratories and equipment; ...) No accepting/understanding of modern methodological approaches (e.g. microscopy vs. molecular biology) Exploiting of PhD students as cheap labor; abuse of authority Constantly rising rental prices etc. because of many students in the city"
+      },
+      "Q55": {
+        "text": "PhD study is not about the abilities and knowledge, it is more about the money and interpersonal relationships.",
+        "label": 0,
+        "original_text": "PhD study is not about the abilities and knowledge, it is more about the money and interpersonal relationships."
+      },
+      "Q41": {
+        "text": "Animal care and science; Healthcare",
+        "label": 0,
+        "original_text": "Animal care and science; Healthcare"
+      },
+      "Q60": {
+        "text": "Thank you for creating the survey.",
+        "label": 0,
+        "original_text": "Thank you for creating the survey."
+      },
+      "Q17": {
+        "text": "Intellectual challenge",
+        "label": 0,
+        "original_text": "Intellectual challenge"
+      }
+    },
+    "num_perturbed": 1,
+    "num_total_fields": 6,
+    "perturbed_fields": [
+      "Q16"
+    ]
+  },
+  {
+    "response_id": "Smartphone",
+    "fields": {
+      "Q26": {
+        "text": "自力更生",
+        "label": 0,
+        "original_text": "自力更生"
+      },
+      "Q16": {
+        "text": "课题进展缓慢",
+        "label": 0,
+        "original_text": "课题进展缓慢"
+      },
+      "Q55": {
+        "text": "研究方向",
+        "label": 0,
+        "original_text": "研究方向"
+      },
+      "Q41": {
+        "text": "大学教师",
+        "label": 0,
+        "original_text": "大学教师"
+      },
+      "Q60": {
+        "text": "博士科研补助太低",
+        "label": 0,
+        "original_text": "博士科研补助太低"
+      },
+      "Q17": {
+        "text": "Intellectual challenge",
+        "label": 0,
+        "original_text": "Intellectual challenge"
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 6,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "SNAP 2015 SHIFT ",
+    "fields": {
+      "Q26": {
+        "text": "The academic system is generally good. However, there should be a dedicated committee — separate from the main supervisor — comprising senior faculty members who can monitor and oversee the progress of lab work.",
+        "label": 1,
+        "original_text": "Academic system is good. However, there should be a team  apart from the main supervisor comprising the senior faculties who can monitor the progress of the lab work."
+      },
+      "Q55": {
+        "text": "New lab has too much pressure to publish. Hence, the supervisor use unprofessional comments and bullies the students.",
+        "label": 0,
+        "original_text": "New lab has too much pressure to publish. Hence, the supervisor use unprofessional comments and bullies the students."
+      },
+      "Q41": {
+        "text": "I aim to continue my academic career by completing a postdoctoral fellowship at a well-regarded and research-productive laboratory.",
+        "label": 1,
+        "original_text": "I want to continue my career as researcher in academia by doing postdoc from a reputed and productive lab."
+      },
+      "Q17": {
+        "text": "University/academic environment",
+        "label": 0,
+        "original_text": "University/academic environment"
+      }
+    },
+    "num_perturbed": 2,
+    "num_total_fields": 4,
+    "perturbed_fields": [
+      "Q26",
+      "Q41"
+    ]
+  },
+  {
+    "response_id": "Smartphone",
+    "fields": {
+      "Q26": {
+        "text": "Ok ok",
+        "label": 0,
+        "original_text": "Ok ok"
+      },
+      "Q16": {
+        "text": "I want to be Lecturer without Postdoc.",
+        "label": 0,
+        "original_text": "I want to be Lecturer without Postdoc."
+      },
+      "Q55": {
+        "text": "NA",
+        "label": 0,
+        "original_text": "NA"
+      },
+      "Q41": {
+        "text": "Industry experience/lecturer in academic",
+        "label": 0,
+        "original_text": "Industry experience/lecturer in academic"
+      },
+      "Q60": {
+        "text": "NA",
+        "label": 0,
+        "original_text": "NA"
+      },
+      "Q17": {
+        "text": "Working with interesting and bright people",
+        "label": 0,
+        "original_text": "Working with interesting and bright people"
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 6,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "SNAP 2015 SHIFT ",
+    "fields": {
+      "Q26": {
+        "text": "Securing funding is the primary goal, and achieving that requires publishing in high-impact journals alongside innovative research. However, the pressure to publish quickly often conflicts with the true purpose of our work: helping people overcome disease and improving their quality of life.",
+        "label": 1,
+        "original_text": "The primary goal is to have funding, for having funding, alongside with innovative ideas, you have to publish in excellent journals. The rush of publishing sometimes does not fit with the aim of our work. Help people to cure the disease or to improve their life."
+      },
+      "Q16": {
+        "text": "The research topics assigned by my PI have little relevance to my own research interests and ideas as a student.",
+        "label": 1,
+        "original_text": "Low relevance to student research ideas by PI"
+      },
+      "Q55": {
+        "text": "Working at a company immediately after completing my master's degree has been highly beneficial. The transition allowed me to apply theoretical knowledge in a real-world setting right away, accelerating my professional development and building practical skills that academic study alone could not provide.",
+        "label": 1,
+        "original_text": "The benefit of working in a company immediately after my master degree"
+      },
+      "Q41": {
+        "text": "Professional scientist working in a corporate or industry setting.",
+        "label": 1,
+        "original_text": "Scientist in a company"
+      },
+      "Q60": {
+        "text": "It's a great initiative to create this survey.",
+        "label": 1,
+        "original_text": "Good idea to create this survey"
+      },
+      "Q17": {
+        "text": "Intellectual challenge",
+        "label": 1,
+        "original_text": "Intellectual challenge"
+      }
+    },
+    "num_perturbed": 6,
+    "num_total_fields": 6,
+    "perturbed_fields": [
+      "Q26",
+      "Q16",
+      "Q55",
+      "Q41",
+      "Q60",
+      "Q17"
+    ]
+  },
+  {
+    "response_id": "Smartphone",
+    "fields": {
+      "Q26": {
+        "text": "Vague",
+        "label": 1,
+        "original_text": "Vague"
+      },
+      "Q16": {
+        "text": "No",
+        "label": 1,
+        "original_text": "No"
+      },
+      "Q41": {
+        "text": "Lawyer",
+        "label": 0,
+        "original_text": "Lawyer"
+      },
+      "Q17": {
+        "text": "Intellectual challenge",
+        "label": 1,
+        "original_text": "Intellectual challenge"
+      }
+    },
+    "num_perturbed": 3,
+    "num_total_fields": 4,
+    "perturbed_fields": [
+      "Q26",
+      "Q16",
+      "Q17"
+    ]
+  },
+  {
+    "response_id": "SNAP 2015 SHIFT ",
+    "fields": {
+      "Q17": {
+        "text": "Other, please specify",
+        "label": 1,
+        "original_text": "Other, please specify"
+      }
+    },
+    "num_perturbed": 1,
+    "num_total_fields": 1,
+    "perturbed_fields": [
+      "Q17"
+    ]
+  },
+  {
+    "response_id": "SNAP 2015 SHIFT ",
+    "fields": {
+      "Q17": {
+        "text": "Creativity",
+        "label": 1,
+        "original_text": "Creativity"
+      }
+    },
+    "num_perturbed": 1,
+    "num_total_fields": 1,
+    "perturbed_fields": [
+      "Q17"
+    ]
+  },
+  {
+    "response_id": "SNAP 2015 SHIFT ",
+    "fields": {
+      "Q26": {
+        "text": "The academic system is quite outdated and hierarchical in its structure. While I believe the younger generation has the potential to shift the prevailing mindset and culture, it remains difficult for them to find opportunities to voice new or alternative perspectives.",
+        "label": 1,
+        "original_text": "Academic system is very old fashioned and hierarchic, I think younger generation could change the overall thinking and attitude, but it is hard to get a chance to represent any new/other opinion."
+      },
+      "Q16": {
+        "text": "Vulnerability is a significant concern for PhD students. When a student invests time and effort into a project and begins producing results, any breakdown — whether in the relationship with their PI, lab dynamics, or other circumstances — can put them in an extremely difficult position. Changing labs or starting over at a new institution is rarely straightforward, as no one wants to risk losing unpublished data and results. Additionally, some PIs fail to recognize that PhD students have personal lives outside of their research commitments.",
+        "label": 1,
+        "original_text": "Vulnerability. If a PhD student start a project and have results but something goes wrong (connection with the PI, lab athmosphere etc.) it is difficult to change the lab or start a new PhD somewhere else, because nobody wants to lose any data without publication.  Sometimes PIs do not respect that a PhD student has personal life as well."
+      },
+      "Q55": {
+        "text": "Go abroad and start a PhD there.",
+        "label": 1,
+        "original_text": "go abroad and start a Phd there."
+      },
+      "Q41": {
+        "text": "I am interested in pursuing a postdoctoral position abroad to further develop my skills and learn new techniques. If this path does not meet my expectations, I would consider transitioning to industry.",
+        "label": 1,
+        "original_text": "I would like to start a postdoc in abroad, and improve my skills and learn new techniques. If this scenario will not meet my expectation I will change to industry."
+      },
+      "Q17": {
+        "text": "Working with talented and intellectually stimulating colleagues",
+        "label": 1,
+        "original_text": "Working with interesting and bright people"
+      }
+    },
+    "num_perturbed": 5,
+    "num_total_fields": 5,
+    "perturbed_fields": [
+      "Q26",
+      "Q16",
+      "Q55",
+      "Q41",
+      "Q17"
+    ]
+  },
+  {
+    "response_id": "SNAP 2015 SHIFT ",
+    "fields": {
+      "Q16": {
+        "text": "Prospect of current research field (like cancer immunology), how it would be in the future or after 10 years?",
+        "label": 0,
+        "original_text": "Prospect of current research field (like cancer immunology), how it would be in the future or after 10 years?"
+      },
+      "Q17": {
+        "text": "Intellectual challenge",
+        "label": 1,
+        "original_text": "Intellectual challenge"
+      }
+    },
+    "num_perturbed": 1,
+    "num_total_fields": 2,
+    "perturbed_fields": [
+      "Q17"
+    ]
+  },
+  {
+    "response_id": "SNAP 2015 SHIFT ",
+    "fields": {
+      "Q26": {
+        "text": "The academic system is mixed hodgepodge with few people extremely sincere and few with big laurels but with short cut work.",
+        "label": 0,
+        "original_text": "The academic system is mixed hodgepodge with few people extremely sincere and few with big laurels but with short cut work."
+      },
+      "Q16": {
+        "text": "mere competition for producing papers in short times when we can produce two or three only with good work.",
+        "label": 0,
+        "original_text": "mere competition for producing papers in short times when we can produce two or three only with good work."
+      },
+      "Q55": {
+        "text": "Got enough lab skills or join a place where I could learn those.",
+        "label": 0,
+        "original_text": "Got enough lab skills or join a place where I could learn those."
+      },
+      "Q41": {
+        "text": "A research scientist with some teaching and guiding students",
+        "label": 0,
+        "original_text": "A research scientist with some teaching and guiding students"
+      },
+      "Q60": {
+        "text": "PhD students need to get more exposure internationally and facilities should be shared. PI's, in general, are not doing a good job at this.",
+        "label": 0,
+        "original_text": "PhD students need to get more exposure internationally and facilities should be shared. PI's, in general, are not doing a good job at this."
+      },
+      "Q17": {
+        "text": "University/academic environment",
+        "label": 0,
+        "original_text": "University/academic environment"
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 6,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "Smartphone",
+    "fields": {
+      "Q17": {
+        "text": "Working with interesting and bright people",
+        "label": 0,
+        "original_text": "Working with interesting and bright people"
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 1,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "SNAP 2015 SHIFT ",
+    "fields": {
+      "Q26": {
+        "text": "The experience is deeply unsatisfying. Graduate students and postdocs are routinely undervalued and overburdened, with the benefits of their work disproportionately flowing to principal investigators. Meaningful emotional and career support is largely absent unless students actively seek it out on their own. Moreover, success in graduate school depends heavily on factors outside one's control: the quality of one's advisor, proximity to publishable research, the luck of the draw with reviewers, and so on.",
+        "label": 1,
+        "original_text": "It's really not good at all. Grad students and postdocs are treated like shit all so that the PI can reap all the benefits. There's very little emotional or career support for grad students unless they go out of their way to find some. Success in grad school is predominantly based on luck: whether you find a good advisor, whether you work on projects close to publication, whether you get good reviewers, etc."
+      },
+      "Q16": {
+        "text": "I have not received meaningful mentorship from the department or faculty, and have had to seek out guidance on scientific, career, and personal matters entirely on my own—relying on fellow graduate students and postdocs for support.",
+        "label": 1,
+        "original_text": "I haven't had any good mentorship from the department/faculty and it's been completely on me to ask other grad students and postdocs for advice on scientific, career, and personal matters."
+      },
+      "Q55": {
+        "text": "How to better guide students in selecting a PI outside of the synthetic biology field.",
+        "label": 1,
+        "original_text": "How to better select a PI in a non-synthetic biology field."
+      },
+      "Q41": {
+        "text": "Scientist or principal investigator working in an industry, non-profit, or government setting",
+        "label": 1,
+        "original_text": "PI/scientist in industry, non-profit, or government"
+      },
+      "Q17": {
+        "text": "Other, please specify",
+        "label": 1,
+        "original_text": "Other, please specify"
+      }
+    },
+    "num_perturbed": 5,
+    "num_total_fields": 5,
+    "perturbed_fields": [
+      "Q26",
+      "Q16",
+      "Q55",
+      "Q41",
+      "Q17"
+    ]
+  },
+  {
+    "response_id": "SNAP 2015 SHIFT ",
+    "fields": {
+      "Q17": {
+        "text": "Working with interesting and bright people.",
+        "label": 1,
+        "original_text": "Working with interesting and bright people"
+      }
+    },
+    "num_perturbed": 1,
+    "num_total_fields": 1,
+    "perturbed_fields": [
+      "Q17"
+    ]
+  },
+  {
+    "response_id": "SNAP 2015 SHIFT ",
+    "fields": {
+      "Q17": {
+        "text": "Creativity",
+        "label": 1,
+        "original_text": "Creativity"
+      }
+    },
+    "num_perturbed": 1,
+    "num_total_fields": 1,
+    "perturbed_fields": [
+      "Q17"
+    ]
+  },
+  {
+    "response_id": "SNAP 2015 SHIFT ",
+    "fields": {
+      "Q26": {
+        "text": "The academic system is quite satisfying in Belgium, but supervisors should receive mgmt training.",
+        "label": 0,
+        "original_text": "The academic system is quite satisfying in Belgium, but supervisors should receive mgmt training."
+      },
+      "Q16": {
+        "text": "Difficulty translating theoretical knowledge into practical application when analyzing my data.",
+        "label": 1,
+        "original_text": "Inability to bridge the gap of theoretical knowledge I have that I need in order to analyze my data properly"
+      },
+      "Q55": {
+        "text": "That mental health problems are a true risk",
+        "label": 0,
+        "original_text": "That mental health problems are a true risk"
+      },
+      "Q17": {
+        "text": "Intellectual challenge",
+        "label": 1,
+        "original_text": "Intellectual challenge"
+      }
+    },
+    "num_perturbed": 2,
+    "num_total_fields": 4,
+    "perturbed_fields": [
+      "Q16",
+      "Q17"
+    ]
+  },
+  {
+    "response_id": "SNAP 2015 SHIFT ",
+    "fields": {
+      "Q41": {
+        "text": "Publishing",
+        "label": 1,
+        "original_text": "publishing"
+      },
+      "Q17": {
+        "text": "University/academic environment",
+        "label": 0,
+        "original_text": "University/academic environment"
+      }
+    },
+    "num_perturbed": 1,
+    "num_total_fields": 2,
+    "perturbed_fields": [
+      "Q41"
+    ]
+  },
+  {
+    "response_id": "SNAP 2015 SHIFT ",
+    "fields": {
+      "Q26": {
+        "text": "Good funding opportunities are available, but senior-level and long-term academic positions remain too scarce.",
+        "label": 1,
+        "original_text": "good funding opportunities, but too few senior level or long-term positions in academia"
+      },
+      "Q41": {
+        "text": "R&D in industry otherwise Consulting if nothing is available Post-Doc in academia",
+        "label": 0,
+        "original_text": "R&D in industry otherwise Consulting if nothing is available Post-Doc in academia"
+      },
+      "Q17": {
+        "text": "Intellectual challenge",
+        "label": 1,
+        "original_text": "Intellectual challenge"
+      }
+    },
+    "num_perturbed": 2,
+    "num_total_fields": 3,
+    "perturbed_fields": [
+      "Q26",
+      "Q17"
+    ]
+  },
+  {
+    "response_id": "SNAP 2015 SHIFT ",
+    "fields": {
+      "Q26": {
+        "text": "It needs to change, it's very unbalanced",
+        "label": 0,
+        "original_text": "It needs to change, it's very unbalanced"
+      },
+      "Q41": {
+        "text": "Consulting",
+        "label": 1,
+        "original_text": "Consulting"
+      },
+      "Q17": {
+        "text": "Intellectual challenge",
+        "label": 0,
+        "original_text": "Intellectual challenge"
+      }
+    },
+    "num_perturbed": 1,
+    "num_total_fields": 3,
+    "perturbed_fields": [
+      "Q41"
+    ]
+  },
+  {
+    "response_id": "Smartphone",
+    "fields": {
+      "Q26": {
+        "text": "Hierarchy",
+        "label": 0,
+        "original_text": "Hierarchy"
+      },
+      "Q55": {
+        "text": "Funding resources",
+        "label": 0,
+        "original_text": "Funding resources"
+      },
+      "Q41": {
+        "text": "academia",
+        "label": 0,
+        "original_text": "academia"
+      },
+      "Q17": {
+        "text": "Intellectual challenge",
+        "label": 0,
+        "original_text": "Intellectual challenge"
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 4,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "Smartphone",
+    "fields": {
+      "Q26": {
+        "text": "PI参次不齐，学术平台也是，直接影响学生的学习成果。",
+        "label": 0,
+        "original_text": "PI参次不齐，学术平台也是，直接影响学生的学习成果。"
+      },
+      "Q16": {
+        "text": "身体健康问题",
+        "label": 0,
+        "original_text": "身体健康问题"
+      },
+      "Q55": {
+        "text": "要对导师进行充分的了解后再做决定",
+        "label": 0,
+        "original_text": "要对导师进行充分的了解后再做决定"
+      },
+      "Q41": {
+        "text": "科研工作",
+        "label": 0,
+        "original_text": "科研工作"
+      },
+      "Q60": {
+        "text": "否",
+        "label": 0,
+        "original_text": "否"
+      },
+      "Q17": {
+        "text": "Knowing I will have a chance for a non-academic research job",
+        "label": 0,
+        "original_text": "Knowing I will have a chance for a non-academic research job"
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 6,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "Smartphone",
+    "fields": {
+      "Q26": {
+        "text": "The current academic system is in need of significant reform. A genuine passion for discovery and authentic scientific effort should be actively encouraged and appropriately recognized. Recognition and awards should not be determined by the prestige of a research topic, the journal in which work appears, or the sheer volume of publications. Additionally, both students and faculty must prioritize their mental well-being and cultivate the humility to acknowledge their mistakes without letting ego stand in the way.",
+        "label": 1,
+        "original_text": "The current academic system needs major improvements. The hunger for discovering new science and true efforts should be encouraged and duly recognized. Awards shouldn’t be based on the topic, or the journal in which the work is published, or the number of papers published. The students and faculty both need to focus on their mental health, and be ready to accept their fault keeping ego aside."
+      },
+      "Q16": {
+        "text": "The “publish anything and publish more, or perish” approach is more acceptable than a detailed/quality paper, which might need enough time and effort.  The slow process of academia: slow advisors and/or slow referees/journals. All these affect students since their career depends on number of papers and the journal’s impact factor, instead of the quality of the paper.  A PhD student is treated as a cheap labor, and the whole idea of offering PhD is like a business instead of actual advancing of science.",
+        "label": 0,
+        "original_text": "The “publish anything and publish more, or perish” approach is more acceptable than a detailed/quality paper, which might need enough time and effort.  The slow process of academia: slow advisors and/or slow referees/journals. All these affect students since their career depends on number of papers and the journal’s impact factor, instead of the quality of the paper.  A PhD student is treated as a cheap labor, and the whole idea of offering PhD is like a business instead of actual advancing of science."
+      },
+      "Q55": {
+        "text": "Academia is deeply political and in need of significant reform.",
+        "label": 1,
+        "original_text": "Academia involves a lot of politics, and needs deep cleaning."
+      },
+      "Q41": {
+        "text": "Highly-collaborative Research (both industrially relevant and fundamental science) done with staff scientists without the need to mentor new students.",
+        "label": 0,
+        "original_text": "Highly-collaborative Research (both industrially relevant and fundamental science) done with staff scientists without the need to mentor new students."
+      },
+      "Q17": {
+        "text": "Creativity",
+        "label": 0,
+        "original_text": "Creativity"
+      }
+    },
+    "num_perturbed": 2,
+    "num_total_fields": 5,
+    "perturbed_fields": [
+      "Q26",
+      "Q55"
+    ]
+  },
+  {
+    "response_id": "SNAP 2015 SHIFT ",
+    "fields": {
+      "Q26": {
+        "text": "The academic system fails. It wants to give PhD students a form of independence for their own career development and the independence gets completely taken away and abused by the supervisor and PI.",
+        "label": 0,
+        "original_text": "The academic system fails. It wants to give PhD students a form of independence for their own career development and the independence gets completely taken away and abused by the supervisor and PI."
+      },
+      "Q55": {
+        "text": "That the lab and my PI where I am  currently doing my PhD is not a good environment for the development of my career",
+        "label": 0,
+        "original_text": "That the lab and my PI where I am  currently doing my PhD is not a good environment for the development of my career"
+      },
+      "Q41": {
+        "text": "Preferably research but I most likely do not want to stay in academia",
+        "label": 0,
+        "original_text": "Preferably research but I most likely do not want to stay in academia"
+      },
+      "Q17": {
+        "text": "A chance to consider professional options",
+        "label": 0,
+        "original_text": "A chance to consider professional options"
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 4,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "SNAP 2015 SHIFT ",
+    "fields": {
+      "Q26": {
+        "text": "barony",
+        "label": 0,
+        "original_text": "barony"
+      },
+      "Q16": {
+        "text": "Lack of an adequate laboratory and instrumentations consequently",
+        "label": 0,
+        "original_text": "Lack of an adequate laboratory and instrumentations consequently"
+      },
+      "Q55": {
+        "text": "The uncapability of my supervisor to be a supervisor. The fact not to have an own laboratory, differently from what he told me.",
+        "label": 0,
+        "original_text": "The uncapability of my supervisor to be a supervisor. The fact not to have an own laboratory, differently from what he told me."
+      },
+      "Q41": {
+        "text": "researcher in academia",
+        "label": 0,
+        "original_text": "researcher in academia"
+      },
+      "Q17": {
+        "text": "Creativity",
+        "label": 0,
+        "original_text": "Creativity"
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 5,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "SNAP 2015 SHIFT ",
+    "fields": {
+      "Q26": {
+        "text": "Independent, and not career-focused when it comes to non-academic jobs.",
+        "label": 1,
+        "original_text": "Independent. Not career focused (for non-academic jobs)."
+      },
+      "Q55": {
+        "text": "Five years feels much longer than it sounds when you're 21 and in college. I chose a university in an unfamiliar location thinking I was being bold and doing something admirable, but in hindsight I would have been better off somewhere that suited me more — in terms of climate, culture, and social norms. I also wish I had researched career prospects before committing to my program.",
+        "label": 1,
+        "original_text": "5 years is longer than it sounds like to a 21-year-old in college. I chose a university in a location outside of my comfort zone thinking that I was doing something virtuous. I should have gone somewhere in a region where I was more comfortable (in terms of climate, culture, and social customs). I also should have started looking at jobs before I chose my program."
+      },
+      "Q41": {
+        "text": "Biophysical research, computational modeling of biophysical systems, and drug design.",
+        "label": 1,
+        "original_text": "Biophysical research, computational modeling of biophysical systems, drug design."
+      },
+      "Q17": {
+        "text": "Creativity",
+        "label": 1,
+        "original_text": "Creativity"
+      }
+    },
+    "num_perturbed": 4,
+    "num_total_fields": 4,
+    "perturbed_fields": [
+      "Q26",
+      "Q55",
+      "Q41",
+      "Q17"
+    ]
+  },
+  {
+    "response_id": "SNAP 2015 SHIFT ",
+    "fields": {
+      "Q26": {
+        "text": "The academic system is filled with too much bureaucracy and politics. The focus should be on knowledge, sharing that knowledge and the quality of the research/science. It should not about hyper-competitiveness, and the quantity of publications containing sloppy science.",
+        "label": 0,
+        "original_text": "The academic system is filled with too much bureaucracy and politics. The focus should be on knowledge, sharing that knowledge and the quality of the research/science. It should not about hyper-competitiveness, and the quantity of publications containing sloppy science."
+      },
+      "Q55": {
+        "text": "That PhDs do not make much money.",
+        "label": 0,
+        "original_text": "That PhDs do not make much money."
+      },
+      "Q41": {
+        "text": "Science writing, industry research, or policy work.",
+        "label": 1,
+        "original_text": "Industry researcher, or science writing, or policy."
+      },
+      "Q17": {
+        "text": "Working with talented and intellectually stimulating colleagues.",
+        "label": 1,
+        "original_text": "Working with interesting and bright people"
+      }
+    },
+    "num_perturbed": 2,
+    "num_total_fields": 4,
+    "perturbed_fields": [
+      "Q41",
+      "Q17"
+    ]
+  },
+  {
+    "response_id": "SNAP 2015 SHIFT ",
+    "fields": {
+      "Q26": {
+        "text": "The concern is less about the research itself and more about the financial benefits that come with being a Ph.D. student.",
+        "label": 1,
+        "original_text": "People don't care about the research they are concerned about the financial advantages of budding Ph.D. students."
+      },
+      "Q16": {
+        "text": "Visa and language related issues.",
+        "label": 0,
+        "original_text": "Visa and language related issues."
+      },
+      "Q55": {
+        "text": "My fee was covered in the admission documents me and every foreign student receives in South Korea. However upon arriving you get to know you have to pay the fee your self from the scholarship you are getting. It is most usual in South Korea. Secondly, they are paid for budding a Ph.D., therefore, most likely professors try to elongate the time duration of the student not because of research work rather for there funds. This makes them involve students in the random works trying to detract so maximum time can be obtained in order to maximize the time duration of the student. This creates mistrust between students and supervisors and the most important factor in losing interest in the work.",
+        "label": 0,
+        "original_text": "My fee was covered in the admission documents me and every foreign student receives in South Korea. However upon arriving you get to know you have to pay the fee your self from the scholarship you are getting. It is most usual in South Korea. Secondly, they are paid for budding a Ph.D., therefore, most likely professors try to elongate the time duration of the student not because of research work rather for there funds. This makes them involve students in the random works trying to detract so maximum time can be obtained in order to maximize the time duration of the student. This creates mistrust between students and supervisors and the most important factor in losing interest in the work."
+      },
+      "Q41": {
+        "text": "research-oriented.",
+        "label": 0,
+        "original_text": "research-oriented."
+      },
+      "Q17": {
+        "text": "Intellectual challenge",
+        "label": 0,
+        "original_text": "Intellectual challenge"
+      }
+    },
+    "num_perturbed": 1,
+    "num_total_fields": 5,
+    "perturbed_fields": [
+      "Q26"
+    ]
+  },
+  {
+    "response_id": "SNAP 2015 SHIFT ",
+    "fields": {
+      "Q26": {
+        "text": "The academic system in Russia is generally lacking — rigid, unwelcoming to new ideas, young researchers, and innovation. I consider myself fortunate to be pursuing my PhD within one of the most enthusiastic, energetic, and forward-thinking research groups in this environment.",
+        "label": 1,
+        "original_text": "The academic system in Russia is rather poor. It is clumsy and unfriendly to every thinag new, young and iinovative. I am a lucky one to have a PhD course in one of the most enthusiastic, energetic and advanced research groups."
+      },
+      "Q55": {
+        "text": "The excessive amount of paperwork required.",
+        "label": 1,
+        "original_text": "the amount of paper work"
+      },
+      "Q41": {
+        "text": "I am hoping to continue in academia as a postdoc or assistant professor, or alternatively to found a startup.",
+        "label": 1,
+        "original_text": "I am hoping to continue as a postdoc/assistant professor in academia or to begin a startup."
+      },
+      "Q17": {
+        "text": "Working with intelligent and engaging colleagues",
+        "label": 1,
+        "original_text": "Working with interesting and bright people"
+      }
+    },
+    "num_perturbed": 4,
+    "num_total_fields": 4,
+    "perturbed_fields": [
+      "Q26",
+      "Q55",
+      "Q41",
+      "Q17"
+    ]
+  },
+  {
+    "response_id": "Smartphone",
+    "fields": {
+      "Q26": {
+        "text": "Disappointing and poorly organised.",
+        "label": 1,
+        "original_text": "Dissapointing, poorly organised."
+      },
+      "Q16": {
+        "text": "Sexism",
+        "label": 1,
+        "original_text": "Sexism"
+      },
+      "Q55": {
+        "text": "The attitude of other staff members toward working outside of academia.",
+        "label": 1,
+        "original_text": "Atittude of other sfuff members towards working outside the academia"
+      },
+      "Q41": {
+        "text": "Medicine, grounded in evidence-based principles and factual accuracy.",
+        "label": 1,
+        "original_text": "Medical-related, based on true values."
+      },
+      "Q17": {
+        "text": "Intellectual challenge",
+        "label": 1,
+        "original_text": "Intellectual challenge"
+      }
+    },
+    "num_perturbed": 5,
+    "num_total_fields": 5,
+    "perturbed_fields": [
+      "Q26",
+      "Q16",
+      "Q55",
+      "Q41",
+      "Q17"
+    ]
+  },
+  {
+    "response_id": "SNAP 2015 SHIFT ",
+    "fields": {
+      "Q26": {
+        "text": "The PhD program is very subjective and can depend on your committee and PI. Luckily my PI does not micromanage and this has allowed me to be creative and come up with my own project. However some of my fellow PhD students are not so lucky. The pressure to publish in high impact journals causes people to simply publish in any journal.",
+        "label": 0,
+        "original_text": "The PhD program is very subjective and can depend on your committee and PI. Luckily my PI does not micromanage and this has allowed me to be creative and come up with my own project. However some of my fellow PhD students are not so lucky. The pressure to publish in high impact journals causes people to simply publish in any journal."
+      },
+      "Q41": {
+        "text": "To remain in academia, I would pursue a postdoctoral position in a large, well-funded lab at a major research institution, which would provide the resources and environment needed to compete at the highest level.",
+        "label": 1,
+        "original_text": "Remain in academia, so a postdoc in a large well funded lab at a large institution to be able to compete against the best."
+      },
+      "Q60": {
+        "text": "I would very much like to have my papers published in Nature.",
+        "label": 1,
+        "original_text": "Publish my papers nature!!!!!!"
+      },
+      "Q17": {
+        "text": "Creativity",
+        "label": 1,
+        "original_text": "Creativity"
+      }
+    },
+    "num_perturbed": 3,
+    "num_total_fields": 4,
+    "perturbed_fields": [
+      "Q41",
+      "Q60",
+      "Q17"
+    ]
+  },
+  {
+    "response_id": "SNAP 2015 SHIFT ",
+    "fields": {
+      "Q26": {
+        "text": "Very flawed",
+        "label": 0,
+        "original_text": "Very flawed"
+      },
+      "Q55": {
+        "text": "How extremely difficult it is. Very hard finding a project",
+        "label": 0,
+        "original_text": "How extremely difficult it is. Very hard finding a project"
+      },
+      "Q41": {
+        "text": "researcher at a non profit",
+        "label": 0,
+        "original_text": "researcher at a non profit"
+      },
+      "Q17": {
+        "text": "Intellectual challenge",
+        "label": 0,
+        "original_text": "Intellectual challenge"
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 4,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "SNAP 2015 SHIFT ",
+    "fields": {
+      "Q41": {
+        "text": "Tenure-track professor",
+        "label": 1,
+        "original_text": "Tenure track professor"
+      },
+      "Q17": {
+        "text": "Intellectual challenge",
+        "label": 1,
+        "original_text": "Intellectual challenge"
+      }
+    },
+    "num_perturbed": 2,
+    "num_total_fields": 2,
+    "perturbed_fields": [
+      "Q41",
+      "Q17"
+    ]
+  },
+  {
+    "response_id": "Smartphone",
+    "fields": {
+      "Q26": {
+        "text": "课程对个人研究帮助不大",
+        "label": 0,
+        "original_text": "课程对个人研究帮助不大"
+      },
+      "Q16": {
+        "text": "无",
+        "label": 0,
+        "original_text": "无"
+      },
+      "Q41": {
+        "text": "大学教师",
+        "label": 0,
+        "original_text": "大学教师"
+      },
+      "Q17": {
+        "text": "Working with interesting and bright people",
+        "label": 0,
+        "original_text": "Working with interesting and bright people"
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 4,
+    "perturbed_fields": []
+  }
+]

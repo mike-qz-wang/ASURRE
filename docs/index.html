@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ASURRE — AI-assisted survey responses, side by side</title>
+<meta name="description" content="Browse the ASURRE benchmark (EMNLP 2026): each survey respondent's own answer next to every model's version of it.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&family=Public+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="masthead">
+  <div class="masthead-inner">
+    <div class="wordmark">
+      <span class="wordmark-name">ASURRE</span>
+      <span class="wordmark-expand">AI-assisted <span class="u">sur</span>vey <span class="u">re</span>sponses</span>
+    </div>
+    <nav class="datasets" id="datasetTabs" aria-label="Dataset"></nav>
+  </div>
+</header>
+
+<main>
+  <section class="intro">
+    <p class="intro-lede" id="introLede">
+      One survey respondent at a time: what they wrote, and what each language
+      model produced in their place.
+    </p>
+    <p class="intro-sub" id="introMeta"></p>
+    <nav class="views" id="viewTabs" aria-label="View"></nav>
+  </section>
+
+  <section class="stage" id="stage"></section>
+</main>
+
+<footer class="colophon">
+  <div class="colophon-inner">
+    <div>
+      <p><strong>ASURRE</strong> accompanies “Towards Detecting AI-Assisted Responses in Online Surveys”
+        (EMNLP&nbsp;2026). This page shows a sample; the full benchmark is in
+        <code>data/</code>.</p>
+      <p class="licences" id="licenceNote"></p>
+    </div>
+    <div class="colophon-links">
+      <a href="https://github.com/mike-qz-wang/ASURRE">Repository</a>
+      <a href="https://github.com/mike-qz-wang/ASURRE/tree/main/data">Full data</a>
+      <a href="https://github.com/mike-qz-wang/ASURRE/blob/main/data/docs/datasets.md">Dataset notes</a>
+    </div>
+  </div>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

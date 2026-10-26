@@ -1,0 +1,12 @@
+{
+  "seed": 42,
+  "test_ratio": 0.2,
+  "augment_ratio": 0.5,
+  "model": "gemini-3-flash-preview",
+  "augmentation_type": "full_generate",
+  "total_entries_with_text": 1596,
+  "train_count": 1276,
+  "test_count": 320,
+  "train_augmented": 638,
+  "test_augmented": 160
+}

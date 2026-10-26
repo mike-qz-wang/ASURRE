@@ -1,0 +1,559 @@
+{
+ "datasets": [
+  {
+   "id": "phd2019",
+   "meta": {
+    "title": "Nature PhD Students Survey",
+    "short": "phd2019",
+    "year": "2019",
+    "domain": "Doctoral education",
+    "licence": "CC BY 4.0",
+    "attribution": "Nature / Shift Learning",
+    "doi": "10.6084/m9.figshare.10266299",
+    "url": "https://doi.org/10.6084/m9.figshare.10266299",
+    "sensitive": false
+   },
+   "respondents": 60,
+   "generators": [
+    {
+     "key": "persona_sonnet|agent_fill",
+     "tag": "persona_sonnet",
+     "mode": "agent_fill",
+     "generator": "Claude Sonnet",
+     "verb": "answered as them",
+     "coverage": 204,
+     "note": null,
+     "label": "persona_sonnet",
+     "family": "agent_claude"
+    },
+    {
+     "key": "persona_sonnet_terse|agent_fill",
+     "tag": "persona_sonnet_terse",
+     "mode": "agent_fill",
+     "generator": "Claude Sonnet",
+     "verb": "answered as them",
+     "coverage": 204,
+     "note": "Length ablation.",
+     "label": "length",
+     "family": "agent_claude"
+    },
+    {
+     "key": "persona_sonnet_controlled|agent_fill",
+     "tag": "persona_sonnet_controlled",
+     "mode": "agent_fill",
+     "generator": "Claude Sonnet",
+     "verb": "answered as them",
+     "coverage": 172,
+     "note": "Length-controlled: agent output matched to human length distribution.",
+     "label": "persona_sonnet_controlled",
+     "family": "agent_claude"
+    },
+    {
+     "key": "persona_sonnet_terse_controlled|agent_fill",
+     "tag": "persona_sonnet_terse_controlled",
+     "mode": "agent_fill",
+     "generator": "Claude Sonnet",
+     "verb": "answered as them",
+     "coverage": 172,
+     "note": "Combined ablation.",
+     "label": "combined",
+     "family": "agent_claude"
+    },
+    {
+     "key": "gptoss120b|llm_revision",
+     "tag": "gptoss120b",
+     "mode": "llm_revision",
+     "generator": "openai/gpt-oss-120b",
+     "verb": "rewrote it",
+     "coverage": 82,
+     "note": null,
+     "label": "gptoss120b",
+     "family": "llm_revision"
+    },
+    {
+     "key": "qwen35_a3b|llm_revision",
+     "tag": "qwen35_a3b",
+     "mode": "llm_revision",
+     "generator": "Qwen/Qwen3.5-35B-A3B-FP8",
+     "verb": "rewrote it",
+     "coverage": 82,
+     "note": null,
+     "label": "qwen35_a3b",
+     "family": "llm_revision"
+    },
+    {
+     "key": "gemini3flashpreview|full_generate",
+     "tag": "gemini3flashpreview",
+     "mode": "full_generate",
+     "generator": "Gemini 3 Flash (preview)",
+     "verb": "answered instead",
+     "coverage": 82,
+     "note": null,
+     "label": "gemini3flashpreview",
+     "family": "full_generate"
+    },
+    {
+     "key": "gptoss120b|full_generate",
+     "tag": "gptoss120b",
+     "mode": "full_generate",
+     "generator": "openai/gpt-oss-120b",
+     "verb": "answered instead",
+     "coverage": 82,
+     "note": null,
+     "label": "gptoss120b",
+     "family": "full_generate"
+    },
+    {
+     "key": "qwen35_a3b|full_generate",
+     "tag": "qwen35_a3b",
+     "mode": "full_generate",
+     "generator": "Qwen/Qwen3.5-35B-A3B-FP8",
+     "verb": "answered instead",
+     "coverage": 82,
+     "note": null,
+     "label": "qwen35_a3b",
+     "family": "full_generate"
+    },
+    {
+     "key": "gemini3flashpreview|llm_revision",
+     "tag": "gemini3flashpreview",
+     "mode": "llm_revision",
+     "generator": "Gemini 3 Flash (preview)",
+     "verb": "rewrote it",
+     "coverage": 81,
+     "note": null,
+     "label": "gemini3flashpreview",
+     "family": "llm_revision"
+    },
+    {
+     "key": "claude_sonnet|llm_revision",
+     "tag": "claude_sonnet",
+     "mode": "llm_revision",
+     "generator": "Claude Sonnet",
+     "verb": "rewrote it",
+     "coverage": 7,
+     "note": null,
+     "label": "claude_sonnet",
+     "family": "llm_revision"
+    }
+   ],
+   "questions": {
+    "Q26": "Overall, how would you describe the academic system, based on your PhD experience so far?",
+    "Q16": "Is there anything else not mentioned that has concerned you since you started your PhD?",
+    "Q55": "With the benefit of hindsight, what one thing do you know now which you wish you'd known about when you started your PhD?",
+    "Q41": "What type of career are you interested in pursuing after your graduate degree?",
+    "Q60": "Thank you for taking part in the survey. Are there any more comments you would like to make?",
+    "Q17": "Overall, what do you enjoy most about life as a PhD student?"
+   },
+   "field_order": [
+    "Q26",
+    "Q16",
+    "Q55",
+    "Q41",
+    "Q60",
+    "Q17"
+   ],
+   "bytes": 398781
+  },
+  {
+   "id": "springer_2017",
+   "meta": {
+    "title": "Springer Nature Social Media Survey",
+    "short": "springer_2017",
+    "year": "2017",
+    "domain": "Researcher social media use",
+    "licence": "CC BY 4.0",
+    "attribution": "Springer Nature",
+    "doi": "10.6084/m9.figshare.5028212",
+    "url": "https://doi.org/10.6084/m9.figshare.5028212",
+    "sensitive": false
+   },
+   "respondents": 60,
+   "generators": [
+    {
+     "key": "persona_sonnet_terse|agent_fill",
+     "tag": "persona_sonnet_terse",
+     "mode": "agent_fill",
+     "generator": "Claude Sonnet",
+     "verb": "answered as them",
+     "coverage": 214,
+     "note": "Length ablation.",
+     "label": "length",
+     "family": "agent_claude"
+    },
+    {
+     "key": "persona_sonnet|agent_fill",
+     "tag": "persona_sonnet",
+     "mode": "agent_fill",
+     "generator": "Claude Sonnet",
+     "verb": "answered as them",
+     "coverage": 193,
+     "note": null,
+     "label": "persona_sonnet",
+     "family": "agent_claude"
+    },
+    {
+     "key": "persona_sonnet_terse_controlled|agent_fill",
+     "tag": "persona_sonnet_terse_controlled",
+     "mode": "agent_fill",
+     "generator": "Claude Sonnet",
+     "verb": "answered as them",
+     "coverage": 120,
+     "note": "Combined ablation.",
+     "label": "combined",
+     "family": "agent_claude"
+    },
+    {
+     "key": "persona_sonnet_controlled|agent_fill",
+     "tag": "persona_sonnet_controlled",
+     "mode": "agent_fill",
+     "generator": "Claude Sonnet",
+     "verb": "answered as them",
+     "coverage": 111,
+     "note": "Length-controlled: agent output matched to human length distribution.",
+     "label": "persona_sonnet_controlled",
+     "family": "agent_claude"
+    },
+    {
+     "key": "gemini3flashpreview|llm_revision",
+     "tag": "gemini3flashpreview",
+     "mode": "llm_revision",
+     "generator": "Gemini 3 Flash (preview)",
+     "verb": "rewrote it",
+     "coverage": 75,
+     "note": null,
+     "label": "gemini3flashpreview",
+     "family": "llm_revision"
+    },
+    {
+     "key": "gptoss120b|llm_revision",
+     "tag": "gptoss120b",
+     "mode": "llm_revision",
+     "generator": "openai/gpt-oss-120b",
+     "verb": "rewrote it",
+     "coverage": 75,
+     "note": null,
+     "label": "gptoss120b",
+     "family": "llm_revision"
+    },
+    {
+     "key": "qwen35_a3b|llm_revision",
+     "tag": "qwen35_a3b",
+     "mode": "llm_revision",
+     "generator": "Qwen/Qwen3.5-35B-A3B-FP8",
+     "verb": "rewrote it",
+     "coverage": 75,
+     "note": null,
+     "label": "qwen35_a3b",
+     "family": "llm_revision"
+    },
+    {
+     "key": "gemini3flashpreview|full_generate",
+     "tag": "gemini3flashpreview",
+     "mode": "full_generate",
+     "generator": "Gemini 3 Flash (preview)",
+     "verb": "answered instead",
+     "coverage": 75,
+     "note": null,
+     "label": "gemini3flashpreview",
+     "family": "full_generate"
+    },
+    {
+     "key": "gptoss120b|full_generate",
+     "tag": "gptoss120b",
+     "mode": "full_generate",
+     "generator": "openai/gpt-oss-120b",
+     "verb": "answered instead",
+     "coverage": 75,
+     "note": null,
+     "label": "gptoss120b",
+     "family": "full_generate"
+    },
+    {
+     "key": "qwen35_a3b|full_generate",
+     "tag": "qwen35_a3b",
+     "mode": "full_generate",
+     "generator": "Qwen/Qwen3.5-35B-A3B-FP8",
+     "verb": "answered instead",
+     "coverage": 75,
+     "note": null,
+     "label": "qwen35_a3b",
+     "family": "full_generate"
+    }
+   ],
+   "questions": {
+    "Q23": "Are there any other tasks you use social media/ SCN for, in relation to your work?",
+    "Q29": "Do you have any comments on the usefulness of social media/ SCN as a resource for supporting research activity and development?",
+    "Q37": "Do you have any comments on the usefulness of social media/ SCN for the sharing of professional content?",
+    "Q43": "Do you have any comments on the usefulness of social media/ SCN for the promotion of professional content?",
+    "Q47": "Do you have any comments on the usefulness of social media/ SCN to network and/or collaborate with other researchers?",
+    "Q63": "Is there anything that would be useful for publishers to provide or improve which would help with your use of social media/ SCN for professional purposes?",
+    "Q65": "Do you have any further comments with regards to your use of social media/ SCN for professional purposes?"
+   },
+   "field_order": [
+    "Q23",
+    "Q29",
+    "Q37",
+    "Q43",
+    "Q47",
+    "Q63",
+    "Q65"
+   ],
+   "bytes": 277556
+  },
+  {
+   "id": "osmi_mh",
+   "meta": {
+    "title": "OSMI Mental Health in Tech Survey",
+    "short": "osmi_mh",
+    "year": "2017-2018",
+    "domain": "Mental health in tech",
+    "licence": "CC BY-SA 4.0",
+    "attribution": "Open Sourcing Mental Illness (OSMI)",
+    "doi": null,
+    "url": "https://osmihelp.org",
+    "sensitive": true
+   },
+   "respondents": 60,
+   "generators": [
+    {
+     "key": "persona_gptoss120b|agent_fill",
+     "tag": "persona_gptoss120b",
+     "mode": "agent_fill",
+     "generator": "openai/gpt-oss-120b",
+     "verb": "answered as them",
+     "coverage": 593,
+     "note": null,
+     "label": "persona_gptoss120b",
+     "family": "agent_backbone"
+    },
+    {
+     "key": "persona_sonnet_terse|agent_fill",
+     "tag": "persona_sonnet_terse",
+     "mode": "agent_fill",
+     "generator": "Claude Sonnet",
+     "verb": "answered as them",
+     "coverage": 584,
+     "note": "Length ablation.",
+     "label": "length",
+     "family": "agent_claude"
+    },
+    {
+     "key": "persona_sonnet|agent_fill",
+     "tag": "persona_sonnet",
+     "mode": "agent_fill",
+     "generator": "Claude Sonnet",
+     "verb": "answered as them",
+     "coverage": 562,
+     "note": null,
+     "label": "persona_sonnet",
+     "family": "agent_claude"
+    },
+    {
+     "key": "persona_gemini_3_flash|agent_fill",
+     "tag": "persona_gemini_3_flash",
+     "mode": "agent_fill",
+     "generator": "Gemini 3 Flash (preview)",
+     "verb": "answered as them",
+     "coverage": 488,
+     "note": null,
+     "label": "persona_gemini_3_flash",
+     "family": "agent_backbone"
+    },
+    {
+     "key": "inject_blind_gemini|agent_fill",
+     "tag": "inject_blind_gemini",
+     "mode": "agent_fill",
+     "generator": "Gemini 3 Flash (preview)",
+     "verb": "answered as them",
+     "coverage": 477,
+     "note": "Distribution injection without target statistics.",
+     "label": "inject_blind_gemini",
+     "family": "agent_inject"
+    },
+    {
+     "key": "persona_sonnet_terse_controlled|agent_fill",
+     "tag": "persona_sonnet_terse_controlled",
+     "mode": "agent_fill",
+     "generator": "Claude Sonnet",
+     "verb": "answered as them",
+     "coverage": 398,
+     "note": "Combined ablation.",
+     "label": "combined",
+     "family": "agent_claude"
+    },
+    {
+     "key": "persona_sonnet_controlled|agent_fill",
+     "tag": "persona_sonnet_controlled",
+     "mode": "agent_fill",
+     "generator": "Claude Sonnet",
+     "verb": "answered as them",
+     "coverage": 386,
+     "note": "Length-controlled: agent output matched to human length distribution.",
+     "label": "persona_sonnet_controlled",
+     "family": "agent_claude"
+    },
+    {
+     "key": "inject_exact_oss|agent_fill",
+     "tag": "inject_exact_oss",
+     "mode": "agent_fill",
+     "generator": "openai/gpt-oss-120b",
+     "verb": "answered as them",
+     "coverage": 157,
+     "note": "Distribution injection, exact target statistics.",
+     "label": "inject_exact_oss",
+     "family": "agent_inject"
+    },
+    {
+     "key": "inject_noisy_oss|agent_fill",
+     "tag": "inject_noisy_oss",
+     "mode": "agent_fill",
+     "generator": "openai/gpt-oss-120b",
+     "verb": "answered as them",
+     "coverage": 157,
+     "note": "Distribution injection, noisy target statistics.",
+     "label": "inject_noisy_oss",
+     "family": "agent_inject"
+    },
+    {
+     "key": "inject_stacked_oss|agent_fill",
+     "tag": "inject_stacked_oss",
+     "mode": "agent_fill",
+     "generator": "openai/gpt-oss-120b",
+     "verb": "answered as them",
+     "coverage": 157,
+     "note": "Distribution injection, stacked cue targeting.",
+     "label": "inject_stacked_oss",
+     "family": "agent_inject"
+    },
+    {
+     "key": "inject_exact_gemini|agent_fill",
+     "tag": "inject_exact_gemini",
+     "mode": "agent_fill",
+     "generator": "Gemini 3 Flash (preview)",
+     "verb": "answered as them",
+     "coverage": 151,
+     "note": "Distribution injection, exact target statistics.",
+     "label": "inject_exact_gemini",
+     "family": "agent_inject"
+    },
+    {
+     "key": "inject_stacked_gemini|agent_fill",
+     "tag": "inject_stacked_gemini",
+     "mode": "agent_fill",
+     "generator": "Gemini 3 Flash (preview)",
+     "verb": "answered as them",
+     "coverage": 148,
+     "note": "Distribution injection, stacked cue targeting.",
+     "label": "inject_stacked_gemini",
+     "family": "agent_inject"
+    },
+    {
+     "key": "inject_noisy_gemini|agent_fill",
+     "tag": "inject_noisy_gemini",
+     "mode": "agent_fill",
+     "generator": "Gemini 3 Flash (preview)",
+     "verb": "answered as them",
+     "coverage": 145,
+     "note": "Distribution injection, noisy target statistics.",
+     "label": "inject_noisy_gemini",
+     "family": "agent_inject"
+    },
+    {
+     "key": "gemini3flashpreview|llm_revision",
+     "tag": "gemini3flashpreview",
+     "mode": "llm_revision",
+     "generator": "Gemini 3 Flash (preview)",
+     "verb": "rewrote it",
+     "coverage": 52,
+     "note": null,
+     "label": "gemini3flashpreview",
+     "family": "llm_revision"
+    },
+    {
+     "key": "gptoss120b|llm_revision",
+     "tag": "gptoss120b",
+     "mode": "llm_revision",
+     "generator": "openai/gpt-oss-120b",
+     "verb": "rewrote it",
+     "coverage": 52,
+     "note": null,
+     "label": "gptoss120b",
+     "family": "llm_revision"
+    },
+    {
+     "key": "qwen35_a3b|llm_revision",
+     "tag": "qwen35_a3b",
+     "mode": "llm_revision",
+     "generator": "Qwen/Qwen3.5-35B-A3B-FP8",
+     "verb": "rewrote it",
+     "coverage": 52,
+     "note": null,
+     "label": "qwen35_a3b",
+     "family": "llm_revision"
+    },
+    {
+     "key": "gemini3flashpreview|full_generate",
+     "tag": "gemini3flashpreview",
+     "mode": "full_generate",
+     "generator": "Gemini 3 Flash (preview)",
+     "verb": "answered instead",
+     "coverage": 52,
+     "note": null,
+     "label": "gemini3flashpreview",
+     "family": "full_generate"
+    },
+    {
+     "key": "gptoss120b|full_generate",
+     "tag": "gptoss120b",
+     "mode": "full_generate",
+     "generator": "openai/gpt-oss-120b",
+     "verb": "answered instead",
+     "coverage": 52,
+     "note": null,
+     "label": "gptoss120b",
+     "family": "full_generate"
+    },
+    {
+     "key": "qwen35_a3b|full_generate",
+     "tag": "qwen35_a3b",
+     "mode": "full_generate",
+     "generator": "Qwen/Qwen3.5-35B-A3B-FP8",
+     "verb": "answered instead",
+     "coverage": 52,
+     "note": null,
+     "label": "qwen35_a3b",
+     "family": "full_generate"
+    }
+   ],
+   "questions": {
+    "Q_EC": "Describe the conversation you had with your employer about your mental health, including their reactions and what actions were taken to address your mental health issue/questions.",
+    "Q_CC": "Describe the conversation with coworkers you had about your mental health including their reactions.",
+    "Q_CW": "Describe the conversation your coworker had with you about their mental health (please do not use names).",
+    "Q_PE": "Describe the conversation you had with your previous employer about your mental health, including their reactions and actions taken to address your mental health issue/questions.",
+    "Q_PC": "Describe the conversation you had with your previous coworkers about your mental health including their reactions.",
+    "Q_CA": "How has being identified as a person with a mental health issue affected your career?",
+    "Q_BH": "Describe the circumstances of the badly handled or unsupportive response.",
+    "Q_SH": "Describe the circumstances of the supportive or well handled response.",
+    "Q_ID": "Briefly describe what you think the industry as a whole and/or employers could do to improve mental health support for employees.",
+    "Q_AE": "If there is anything else you would like to tell us that has not been covered by the survey questions, please use this space to do so."
+   },
+   "field_order": [
+    "Q_EC",
+    "Q_CC",
+    "Q_CW",
+    "Q_PE",
+    "Q_PC",
+    "Q_CA",
+    "Q_BH",
+    "Q_SH",
+    "Q_ID",
+    "Q_AE"
+   ],
+   "bytes": 1154348
+  }
+ ],
+ "built_with": "scripts/build_browse_data.py",
+ "max_respondents": 60,
+ "seed": 20261026
+}

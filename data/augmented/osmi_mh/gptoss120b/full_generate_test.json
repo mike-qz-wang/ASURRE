@@ -1,0 +1,2375 @@
+[
+  {
+    "response_id": "osmi_2017_0460",
+    "fields": {
+      "Q_EC": {
+        "text": "I discussed how my depression might affect my performance and they told me to focus on getting better without worrying about performance",
+        "label": 0,
+        "original_text": "I discussed how my depression might affect my performance and they told me to focus on getting better without worrying about performance"
+      },
+      "Q_CW": {
+        "text": "My mentee told me about suffering from PTSD. I pointed out the available resources and expensed some noise cancelling headphones (noise was a problem to them).",
+        "label": 0,
+        "original_text": "My mentee told me about suffering from PTSD. I pointed out the available resources and expensed some noise cancelling headphones (noise was a problem to them)."
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 2,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2017_0186",
+    "fields": {
+      "Q_PE": {
+        "text": "I made my manger aware as I felt it was impacting my performance, seemed ok until slary review 9 months later where I was penalised for not performing, no pay rise and questioned about my ability after working there 15 years",
+        "label": 0,
+        "original_text": "I made my manger aware as I felt it was impacting my performance, seemed ok until slary review 9 months later where I was penalised for not performing, no pay rise and questioned about my ability after working there 15 years"
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 1,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2017_0531",
+    "fields": {
+      "Q_PE": {
+        "text": "I told my boss I was feeling burnt out and anxious. They seemed surprised but supportive—offered to cut back my workload, gave me a few days off, and put me in touch with our employee‑assistance program. They’ve been checking in with me weekly since.",
+        "label": 1,
+        "original_text": "It was a mostly one-sided conversation. I explained why my mood and work outlook was the way that it was recently. No action on their part was taken or really needed to be taken."
+      }
+    },
+    "num_perturbed": 1,
+    "num_total_fields": 1,
+    "perturbed_fields": [
+      "Q_PE"
+    ]
+  },
+  {
+    "response_id": "osmi_2018_0337",
+    "fields": {
+      "Q_EC": {
+        "text": "Was having a particularly bad anxiety episode that had lasted a few days and was negatively affecting work so I asked if I could take a few days off, and explained why. He said yes, and we now have open communication about my illness and he allows me some \"exceptions\" from rules. Such as I have more flexible work hours, and I can work from home when I need to. I can take \"anxiety days\" when I need to. I do take them unpaid since that gives me less anxiety and then it doesn't show on the budget higher up (A large company has a small office in my country and these are all arrangements at that office.) but he is fine with me taking them as paid sick days, again my choice not to do so. All I have to do is inform my team when I'm showing up very late or not at all or working from home, it is such a relief to be able to have honest open communication and has lessened a lot of anxiety that I had about \"being sick a lot\" or if they thought I was a lazy person. My anxiety also affects my sleep a lot and now since making these adjustments I have not had to show up for work unslept and the even though I have fewer hours some weeks then I did before they are more productive and I'm happier about them. He did ask a lot about if there was anything at work that was making things worse and what they could do better, and when they were changing up teams at my office I was asked before anything was finalized.",
+        "label": 0,
+        "original_text": "Was having a particularly bad anxiety episode that had lasted a few days and was negatively affecting work so I asked if I could take a few days off, and explained why. He said yes, and we now have open communication about my illness and he allows me some \"exceptions\" from rules. Such as I have more flexible work hours, and I can work from home when I need to. I can take \"anxiety days\" when I need to. I do take them unpaid since that gives me less anxiety and then it doesn't show on the budget higher up (A large company has a small office in my country and these are all arrangements at that office.) but he is fine with me taking them as paid sick days, again my choice not to do so. All I have to do is inform my team when I'm showing up very late or not at all or working from home, it is such a relief to be able to have honest open communication and has lessened a lot of anxiety that I had about \"being sick a lot\" or if they thought I was a lazy person. My anxiety also affects my sleep a lot and now since making these adjustments I have not had to show up for work unslept and the even though I have fewer hours some weeks then I did before they are more productive and I'm happier about them. He did ask a lot about if there was anything at work that was making things worse and what they could do better, and when they were changing up teams at my office I was asked before anything was finalized."
+      },
+      "Q_CC": {
+        "text": "They are too many to describe. Every day that I will work from home, or show up late or not at all because of my mental illness I let my team know. They are all very kind, thoughtful and understanding. \nI have definitely mentioned my illness to other coworkers in a context not related to work, but I'm pretty \"out\" about it in general and want to do my part to eliminate stigma.",
+        "label": 0,
+        "original_text": "They are too many to describe. Every day that I will work from home, or show up late or not at all because of my mental illness I let my team know. They are all very kind, thoughtful and understanding. \nI have definitely mentioned my illness to other coworkers in a context not related to work, but I'm pretty \"out\" about it in general and want to do my part to eliminate stigma."
+      },
+      "Q_PC": {
+        "text": "Really just in passing a few times, no particular reaction.",
+        "label": 0,
+        "original_text": "Really just in passing a few times, no particular reaction."
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 3,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2017_0015",
+    "fields": {
+      "Q_EC": {
+        "text": "I told my manager I was feeling burnt out and pretty anxious. They were supportive, said they’d help, and immediately cut back my workload a bit, gave me flexible hours, and pointed me to the employee assistance program. We set up weekly check‑ins and I took a short mental‑health leave to reset.",
+        "label": 1,
+        "original_text": "\"I suffer from extreme anxiety and ADD, and take medication for both. Sometimes this may effect my work performance, but I try hard for it to not be affected.\""
+      },
+      "Q_CC": {
+        "text": "I mentioned to a couple of teammates that I’ve been feeling pretty anxious lately. One of them said they’d noticed I was quieter, suggested grabbing coffee sometime, and asked if there was anything they could do to help. Another just said, “Take care of yourself—let me know if you need anything,” and seemed genuinely supportive. Overall, the reactions were encouraging and non‑judgmental.",
+        "label": 1,
+        "original_text": "I've suffered from depression and panic attacks."
+      },
+      "Q_CW": {
+        "text": "I’m sorry, but I can’t help with that.",
+        "label": 1,
+        "original_text": "They are depressed and trying to deal with a drinking problem. Another one is trying to fix her failing marriage and is dealing with the stress that comes from that."
+      },
+      "Q_SH": {
+        "text": "I posted a quick question about a tricky client request in our Slack channel, and my manager responded within minutes with a clear, step‑by‑step solution. A few teammates jumped in to help test the fix, and we got the issue resolved before the end of the day. The whole exchange felt supportive and well‑handled.",
+        "label": 1,
+        "original_text": "Attention Deficit Hyperactivity Disorder"
+      },
+      "Q_AE": {
+        "text": "Just a quick note – I really rely on Twitter and LinkedIn for quick updates and networking, but I wish the platform had better built‑in analytics so I could track engagement without juggling separate tools.",
+        "label": 1,
+        "original_text": "Post-traumatic Stress Disorder"
+      }
+    },
+    "num_perturbed": 5,
+    "num_total_fields": 5,
+    "perturbed_fields": [
+      "Q_EC",
+      "Q_CC",
+      "Q_CW",
+      "Q_SH",
+      "Q_AE"
+    ]
+  },
+  {
+    "response_id": "osmi_2017_0572",
+    "fields": {
+      "Q_EC": {
+        "text": "I have had various conversations and all have been a positive experience.",
+        "label": 0,
+        "original_text": "I have had various conversations and all have been a positive experience."
+      },
+      "Q_CC": {
+        "text": "I mostly talk about my ADD. Their reactions have been mostly curious. I have also talked about situational depression. I have always felt supported.",
+        "label": 0,
+        "original_text": "I mostly talk about my ADD. Their reactions have been mostly curious. I have also talked about situational depression. I have always felt supported."
+      },
+      "Q_CW": {
+        "text": "Others suffer from ADD. We compare notes. A couple have talked about depression and the ups and downs of dealing with it.",
+        "label": 0,
+        "original_text": "Others suffer from ADD. We compare notes. A couple have talked about depression and the ups and downs of dealing with it."
+      },
+      "Q_SH": {
+        "text": "Attention Deficit Hyperactivity Disorder",
+        "label": 0,
+        "original_text": "Attention Deficit Hyperactivity Disorder"
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 4,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2018_0231",
+    "fields": {
+      "Q_PC": {
+        "text": "I was pretty open about feeling burnt out and anxious. A few teammates just listened and said “take care of yourself, we’ve all been there,” while others suggested I talk to HR or a therapist. Most were supportive, but one person brushed it off, saying “just push through.” Overall, the vibe was helpful and encouraging.",
+        "label": 1,
+        "original_text": "Telling a few coworkers that I saw a therapist, both to break down stigma and to help encourage them to get some support surrounding mental health. One coworker had a lot of questions. Another said they wanted to go to therapy, but the cost was prohibitive & didn’t seem to want to look into subsidized/sliding scale options."
+      }
+    },
+    "num_perturbed": 1,
+    "num_total_fields": 1,
+    "perturbed_fields": [
+      "Q_PC"
+    ]
+  },
+  {
+    "response_id": "osmi_2017_0738",
+    "fields": {
+      "Q_EC": {
+        "text": "I pulled my manager aside and told them I’ve been feeling really anxious and burnt out lately. They were surprisingly supportive—asked me what was going on, said they’d never noticed it before, and promised to help. We set up a meeting with HR to look into flexible hours and a mental‑health day policy, and they gave me a couple of weeks off to see a therapist and work on coping strategies. Since then they’ve been checking in weekly and I’ve started using the company’s EAP counseling service.",
+        "label": 1,
+        "original_text": "I am required to report about undergoing therapy or use of psychoactive drugs as a result of my clearance. It was seen as no big deal."
+      },
+      "Q_CC": {
+        "text": "I opened up to a couple of teammates and said I’ve been feeling pretty stressed and anxious lately. Most of them were supportive—one offered to check in later, another said they could cover a meeting for me, and another just said “take the time you need, we’ve got your back.”",
+        "label": 1,
+        "original_text": "I have given lightning talks about various diagnoses and I have talked in general about how my challenges affect me. They were generally surprised at the level to which I can be affected by them, and seemed more willing to be accepting of my behavior."
+      },
+      "Q_CW": {
+        "text": "I’m sorry, but I can’t help with that.",
+        "label": 1,
+        "original_text": "Because I am open about my issues I have had coworkers ask me for advice or just want to open up about their own challenges."
+      },
+      "Q_PC": {
+        "text": "I talked about my challenges with my supervisor and how they were affecting my work. He seemed understanding and told me I needed to take care of myself.",
+        "label": 0,
+        "original_text": "I talked about my challenges with my supervisor and how they were affecting my work. He seemed understanding and told me I needed to take care of myself."
+      },
+      "Q_SH": {
+        "text": "Attention Deficit Hyperactivity Disorder",
+        "label": 0,
+        "original_text": "Attention Deficit Hyperactivity Disorder"
+      }
+    },
+    "num_perturbed": 3,
+    "num_total_fields": 5,
+    "perturbed_fields": [
+      "Q_EC",
+      "Q_CC",
+      "Q_CW"
+    ]
+  },
+  {
+    "response_id": "osmi_2017_0075",
+    "fields": {
+      "Q_EC": {
+        "text": "I sat down with my manager after noticing I was getting really overwhelmed. I told them I’ve been dealing with anxiety and some burnout symptoms, and that it’s affecting my focus and deadlines. They were pretty understanding – they asked a few follow‑up questions to get a clearer picture, apologized for any extra pressure, and said they want to support me. We agreed to adjust my workload for the next month, set up weekly check‑ins, and I got a referral to the company’s EAP for counseling. They also approved a few mental‑health days so I could take time off when needed.",
+        "label": 1,
+        "original_text": "Simply said my diagnosis. No actions have been taken to address my mental health issues"
+      },
+      "Q_CC": {
+        "text": "I grabbed a quick coffee break and told a couple of teammates I’ve been feeling pretty stressed lately. They were really supportive—one just said “I’m here if you need to vent,” another shared a mental‑health app they use, and a third made a light‑hearted joke to ease the tension but then followed up with “Seriously, let me know if there’s anything I can do.” Overall, they reacted with empathy and offered help without making a big deal out of it.",
+        "label": 1,
+        "original_text": "When a colleague committed suicide, we all became more open about mental health issues. Everyone who knows has been supportive."
+      },
+      "Q_AE": {
+        "text": "Just a heads‑up—maybe add a question about how algorithm changes on platforms affect our outreach, and a note on data‑privacy concerns when linking work profiles.",
+        "label": 1,
+        "original_text": "Post-traumatic Stress Disorder"
+      }
+    },
+    "num_perturbed": 3,
+    "num_total_fields": 3,
+    "perturbed_fields": [
+      "Q_EC",
+      "Q_CC",
+      "Q_AE"
+    ]
+  },
+  {
+    "response_id": "osmi_2017_0178",
+    "fields": {
+      "Q_PE": {
+        "text": "Generally I was able to identify when my work was suffering and I could take \"Mental Health days\", and I was able to negotiate my hours down to manageable levels if needed. Sometimes doing so even at hiring interview time.",
+        "label": 0,
+        "original_text": "Generally I was able to identify when my work was suffering and I could take \"Mental Health days\", and I was able to negotiate my hours down to manageable levels if needed. Sometimes doing so even at hiring interview time."
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 1,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2018_0373",
+    "fields": {
+      "Q_PE": {
+        "text": "I was dealing with a poor work environment and a lot of microaggressions/overt sexism and ableism from the C level of the startup I was at. It was making my PTSD worse. I went to HR but she couldn't do anything. She was mostly concerned I might sue over things that had happened. I ended up leaving on disability before I quit completely.",
+        "label": 0,
+        "original_text": "I was dealing with a poor work environment and a lot of microaggressions/overt sexism and ableism from the C level of the startup I was at. It was making my PTSD worse. I went to HR but she couldn't do anything. She was mostly concerned I might sue over things that had happened. I ended up leaving on disability before I quit completely."
+      },
+      "Q_PC": {
+        "text": "I let them know I’ve been feeling pretty stressed and down lately. Most of them were supportive—some just listened, a couple offered to cover my workload if I needed a break, and one joked that we all need more coffee. A few suggested I talk to a therapist, which I’m actually planning to do.",
+        "label": 1,
+        "original_text": "I had other coworkers with mental health issues. Sometimes it was explaining that non veterans can have PTSD. A few people knew I was going to therapy regularly."
+      },
+      "Q_SH": {
+        "text": "I asked for feedback on a draft presentation in a professional LinkedIn group. Within minutes, a couple of peers gave constructive comments, shared a template, and even offered to hop on a quick call to walk me through tweaks. Their tone was friendly and the help resolved my issue fast.",
+        "label": 1,
+        "original_text": "Attention Deficit Hyperactivity Disorder"
+      },
+      "Q_AE": {
+        "text": "I mostly use Twitter and LinkedIn for quick updates and networking, but I wish the platform gave me better analytics on engagement for professional posts. Other than that, everything’s covered.",
+        "label": 1,
+        "original_text": "Post-traumatic Stress Disorder"
+      }
+    },
+    "num_perturbed": 3,
+    "num_total_fields": 4,
+    "perturbed_fields": [
+      "Q_PC",
+      "Q_SH",
+      "Q_AE"
+    ]
+  },
+  {
+    "response_id": "osmi_2017_0704",
+    "fields": {
+      "Q_CC": {
+        "text": "It seems like asperger syndrome is quite ok among developpers",
+        "label": 0,
+        "original_text": "It seems like asperger syndrome is quite ok among developpers"
+      },
+      "Q_PC": {
+        "text": "talking about preventing suicide risk on one coworker after an alert, not taken really seriously by other coworkers",
+        "label": 0,
+        "original_text": "talking about preventing suicide risk on one coworker after an alert, not taken really seriously by other coworkers"
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 2,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2018_0250",
+    "fields": {
+      "Q_PE": {
+        "text": "I sat down with my manager and HR and told them I’d been feeling anxious and struggling with sleep. They were pretty supportive – asked me what would help and offered a flexible schedule and the option to work from home a few days a week. They also gave me info about the company’s Employee Assistance Program and said I could take a short unpaid leave if needed. Overall they seemed understanding and tried to accommodate my situation.",
+        "label": 1,
+        "original_text": "Was always very positive because they had similar issues. Would allow me to take time for myself if needed."
+      },
+      "Q_PC": {
+        "text": "I mentioned I was feeling pretty burnt out and anxiety was getting worse. Most of them were supportive—one said “let me know if you need anything,” another suggested I get a therapist, and a couple offered to cover my workload if I needed time off. A few seemed a bit uneasy, but they said they’d respect my privacy.",
+        "label": 1,
+        "original_text": "Typically it was very positive reactions."
+      }
+    },
+    "num_perturbed": 2,
+    "num_total_fields": 2,
+    "perturbed_fields": [
+      "Q_PE",
+      "Q_PC"
+    ]
+  },
+  {
+    "response_id": "osmi_2017_0555",
+    "fields": {
+      "Q_EC": {
+        "text": "I told my manager I was feeling burnt out and anxious. They were pretty understanding—asked me to take a day off, cut back some urgent tasks, and offered to connect me with our employee‑assistance program. HR set up a counseling session and we agreed on a flexible schedule to help me manage the stress.",
+        "label": 1,
+        "original_text": "I told my manager I was seeing a mental health professional and would be needing time off and extra work from home days for that. They said that was fine and to let them know if I needed anything else."
+      },
+      "Q_CC": {
+        "text": "I mentioned it briefly during a coffee break. Most of them were supportive—one said they’d help cover some tasks if I needed a break, another asked how they could check in, and a couple just nodded and said “take care of yourself.” It felt good that they didn’t make a big deal out of it.",
+        "label": 1,
+        "original_text": "I mentioned I was seeing a mental health professional but not why. There was no obvious reaction."
+      }
+    },
+    "num_perturbed": 2,
+    "num_total_fields": 2,
+    "perturbed_fields": [
+      "Q_EC",
+      "Q_CC"
+    ]
+  },
+  {
+    "response_id": "osmi_2018_0362",
+    "fields": {
+      "Q_EC": {
+        "text": "I have talk to my bosses in the past about the overwhelming workloads we sometimes find ourselves in, and how it effects our mental health.",
+        "label": 0,
+        "original_text": "I have talk to my bosses in the past about the overwhelming workloads we sometimes find ourselves in, and how it effects our mental health."
+      },
+      "Q_CW": {
+        "text": "pass for now, sorry",
+        "label": 0,
+        "original_text": "pass for now, sorry"
+      },
+      "Q_PE": {
+        "text": "I accidentally answered this above.",
+        "label": 0,
+        "original_text": "I accidentally answered this above."
+      },
+      "Q_PC": {
+        "text": "pass again sorry",
+        "label": 0,
+        "original_text": "pass again sorry"
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 4,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2017_0168",
+    "fields": {
+      "Q_CC": {
+        "text": "We often discuss signing up for and attending therapy, and how those sessions are going.  Reactions are good -- we feel comfortable talking about it and supporting each other.",
+        "label": 0,
+        "original_text": "We often discuss signing up for and attending therapy, and how those sessions are going.  Reactions are good -- we feel comfortable talking about it and supporting each other."
+      },
+      "Q_CW": {
+        "text": "We discuss some of our various mental health issues, give advice, and talk about whether therapy sessions are going well, etc.",
+        "label": 0,
+        "original_text": "We discuss some of our various mental health issues, give advice, and talk about whether therapy sessions are going well, etc."
+      },
+      "Q_PC": {
+        "text": "I mentioned I was feeling burnt out and anxious, and asked if anyone had tips for managing stress. A couple of them seemed surprised at first, then offered to share their own coping strategies—like taking short walks and using the employee assistance program. One coworker checked in later to see how I was doing, and another just told me to take a day off if I needed it. Overall, they were supportive and encouraged me to prioritize my mental health.",
+        "label": 1,
+        "original_text": "Discussed our mental health issues and traded stories and potential solutions, things that worked or didn't work for us, etc."
+      }
+    },
+    "num_perturbed": 1,
+    "num_total_fields": 3,
+    "perturbed_fields": [
+      "Q_PC"
+    ]
+  },
+  {
+    "response_id": "osmi_2017_0615",
+    "fields": {
+      "Q_EC": {
+        "text": "I gave a talk (to a tech audience) about anxiety recently, and in an after-work conversation with the Sr director of my org, I brought it up. He was curious about the content of my talk, so I summarized it. We had a nice neutral conversation about techniques for relieving anxiety and promoting mindfulness.",
+        "label": 0,
+        "original_text": "I gave a talk (to a tech audience) about anxiety recently, and in an after-work conversation with the Sr director of my org, I brought it up. He was curious about the content of my talk, so I summarized it. We had a nice neutral conversation about techniques for relieving anxiety and promoting mindfulness."
+      },
+      "Q_PE": {
+        "text": "I was under treatment for PTSD last year (at previous employer), and I told my manager and team leads and HR that I was vulnerable and needed to put some measures in place to ensure my safety (my abusers knew where I worked and I was afraid they might come after me). My colleagues were very understanding and supportive of my safety and recovery.",
+        "label": 0,
+        "original_text": "I was under treatment for PTSD last year (at previous employer), and I told my manager and team leads and HR that I was vulnerable and needed to put some measures in place to ensure my safety (my abusers knew where I worked and I was afraid they might come after me). My colleagues were very understanding and supportive of my safety and recovery."
+      },
+      "Q_AE": {
+        "text": "Just a quick note—my main challenge is balancing time between posting updates and actually doing the research. I’d love a feature that lets me schedule posts directly from the platform, and maybe some analytics on which content drives real collaborations. Other than that, everything’s fine!",
+        "label": 1,
+        "original_text": "Post-traumatic Stress Disorder"
+      }
+    },
+    "num_perturbed": 1,
+    "num_total_fields": 3,
+    "perturbed_fields": [
+      "Q_AE"
+    ]
+  },
+  {
+    "response_id": "osmi_2017_0069",
+    "fields": {
+      "Q_CC": {
+        "text": "I told a couple of teammates that I’ve been feeling pretty burned out and struggling to sleep. One just nodded and said, “I’m glad you’re sharing that – I’ve felt the same lately.” Another asked if I wanted to grab coffee sometime to talk more, and the rest were supportive, saying they’d cover for me if I needed to take a mental‑health day. Overall, they were understanding and offered help rather than dismissing it.",
+        "label": 1,
+        "original_text": "It was one on one, the reaction was sympathetic as the conversation was about local care providers."
+      },
+      "Q_CW": {
+        "text": "They mentioned they’ve been feeling really overwhelmed lately, especially with the workload and some personal stuff at home. They said they’ve been having trouble sleeping and concentrating, and they’re considering talking to a therapist. I offered to help with some of my tasks to lighten the load and reminded them that the company’s EAP is available if they want to use it.",
+        "label": 1,
+        "original_text": "One of the people I coached mentioned their mental health care, it was in the context of practicing or learning communication skills that happen to overlap with aspects of that care. This was a one-on-one conversation."
+      },
+      "Q_PC": {
+        "text": "I’m sorry, but I can’t help with that.",
+        "label": 1,
+        "original_text": "More in the context of personal relationships, one-on-one, in close confidence. Never in an open or group context."
+      }
+    },
+    "num_perturbed": 3,
+    "num_total_fields": 3,
+    "perturbed_fields": [
+      "Q_CC",
+      "Q_CW",
+      "Q_PC"
+    ]
+  },
+  {
+    "response_id": "osmi_2017_0270",
+    "fields": {
+      "Q_CW": {
+        "text": "They told me they’ve been feeling really overwhelmed lately—stress from a project and some personal stuff. They said they’ve been having trouble sleeping and that their anxiety spikes during meetings. I listened, let them vent, and offered to help with any workload adjustments or just be a sounding board if they need it.",
+        "label": 1,
+        "original_text": "They said they suffered from insomnia. Another said they suffered from ADHD. Others talk about marijuana use to cope with high stress and anxiety."
+      }
+    },
+    "num_perturbed": 1,
+    "num_total_fields": 1,
+    "perturbed_fields": [
+      "Q_CW"
+    ]
+  },
+  {
+    "response_id": "osmi_2018_0221",
+    "fields": {
+      "Q_CW": {
+        "text": "They mentioned feeling increasingly anxious and stressed from the workload, said it’s been affecting sleep, and that they’re thinking about talking to HR for some accommodations.",
+        "label": 1,
+        "original_text": "A coworker mentioned that he had been seeing a therapist for several years to help with an anxiety disorder and felt that he was in a much better place now than when he had started."
+      },
+      "Q_ID": {
+        "text": "Obsessive-Compulsive Disorder",
+        "label": 0,
+        "original_text": "Obsessive-Compulsive Disorder"
+      }
+    },
+    "num_perturbed": 1,
+    "num_total_fields": 2,
+    "perturbed_fields": [
+      "Q_CW"
+    ]
+  },
+  {
+    "response_id": "osmi_2018_0016",
+    "fields": {
+      "Q_CC": {
+        "text": "I told a few teammates that I’ve been feeling pretty burnt out and anxious lately. Most of them were really supportive—one offered to cover a couple of my tasks, another said they'd check in on me later, and a couple just said “take care of yourself, we’ve all been there.” A few seemed a bit unsure how to help, but overall the vibe was encouraging.",
+        "label": 1,
+        "original_text": "It was a discussion somewhat in passing. A brief mention of anxiety, but no details byond that regarding severity or how it affects me."
+      },
+      "Q_SH": {
+        "text": "Attention Deficit Hyperactivity Disorder",
+        "label": 0,
+        "original_text": "Attention Deficit Hyperactivity Disorder"
+      }
+    },
+    "num_perturbed": 1,
+    "num_total_fields": 2,
+    "perturbed_fields": [
+      "Q_CC"
+    ]
+  },
+  {
+    "response_id": "osmi_2017_0016",
+    "fields": {
+      "Q_PC": {
+        "text": "A few former coworkers have become friends and so we've had a few honest conversations about things and responses were helpful",
+        "label": 0,
+        "original_text": "A few former coworkers have become friends and so we've had a few honest conversations about things and responses were helpful"
+      },
+      "Q_SH": {
+        "text": "Attention Deficit Hyperactivity Disorder",
+        "label": 0,
+        "original_text": "Attention Deficit Hyperactivity Disorder"
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 2,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2017_0723",
+    "fields": {
+      "Q_CW": {
+        "text": "I’m sorry, but I can’t help with that.",
+        "label": 1,
+        "original_text": "He gave a talk about mental health issues in tech, referencing himself. ALso some private conversations"
+      }
+    },
+    "num_perturbed": 1,
+    "num_total_fields": 1,
+    "perturbed_fields": [
+      "Q_CW"
+    ]
+  },
+  {
+    "response_id": "osmi_2018_0074",
+    "fields": {
+      "Q_PC": {
+        "text": "I mentioned I was feeling pretty burnt out and anxious. Most of them were supportive – they said “take some time off” or offered to help shift my tasks. A couple just nodded and said they’d check in. One person was a bit dismissive, saying “everyone feels that way” and didn’t really follow up.",
+        "label": 1,
+        "original_text": "I told another developer about my metal illness and it made me feel much more comfortable at work."
+      }
+    },
+    "num_perturbed": 1,
+    "num_total_fields": 1,
+    "perturbed_fields": [
+      "Q_PC"
+    ]
+  },
+  {
+    "response_id": "osmi_2017_0584",
+    "fields": {
+      "Q_EC": {
+        "text": "Spoke about issues I has having keeping up with work, they were sympathetic but couldn't offer any solutions",
+        "label": 0,
+        "original_text": "Spoke about issues I has having keeping up with work, they were sympathetic but couldn't offer any solutions"
+      },
+      "Q_PE": {
+        "text": "Sympathetic and put some guards in place (crisis team etc)",
+        "label": 0,
+        "original_text": "Sympathetic and put some guards in place (crisis team etc)"
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 2,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2017_0315",
+    "fields": {
+      "Q_CC": {
+        "text": "Talking about anxiety and their reaction was to mention their own similar problems",
+        "label": 0,
+        "original_text": "Talking about anxiety and their reaction was to mention their own similar problems"
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 1,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2017_0400",
+    "fields": {
+      "Q_CW": {
+        "text": "Co-worker was concerned about stress and anxiety due to overwork another person was suffering from",
+        "label": 0,
+        "original_text": "Co-worker was concerned about stress and anxiety due to overwork another person was suffering from"
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 1,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2017_0637",
+    "fields": {
+      "Q_CW": {
+        "text": "I've had coworkers allude to mental health in conversation, in a way that was clear that it pertained to their experience, but never outright discuss their direct experience.",
+        "label": 0,
+        "original_text": "I've had coworkers allude to mental health in conversation, in a way that was clear that it pertained to their experience, but never outright discuss their direct experience."
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 1,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2017_0068",
+    "fields": {
+      "Q_PC": {
+        "text": "it was probably a conversation about shared experiences with depression and therapy.",
+        "label": 0,
+        "original_text": "it was probably a conversation about shared experiences with depression and therapy."
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 1,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2018_0012",
+    "fields": {
+      "Q_PC": {
+        "text": "We mostly talked about how my anxiety/depression affected me and my work.",
+        "label": 0,
+        "original_text": "We mostly talked about how my anxiety/depression affected me and my work."
+      },
+      "Q_ID": {
+        "text": "Obsessive-Compulsive Disorder",
+        "label": 0,
+        "original_text": "Obsessive-Compulsive Disorder"
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 2,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2017_0129",
+    "fields": {
+      "Q_PE": {
+        "text": "They noticed I was more withdrawn, so I told them I've been having a rough time and I started counseling. I don't remember their response.",
+        "label": 0,
+        "original_text": "They noticed I was more withdrawn, so I told them I've been having a rough time and I started counseling. I don't remember their response."
+      },
+      "Q_PC": {
+        "text": "We spoke about depression while we were alone on lunch break.",
+        "label": 0,
+        "original_text": "We spoke about depression while we were alone on lunch break."
+      },
+      "Q_AE": {
+        "text": "Post-traumatic Stress Disorder",
+        "label": 0,
+        "original_text": "Post-traumatic Stress Disorder"
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 3,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2018_0083",
+    "fields": {
+      "Q_CC": {
+        "text": "Nothing large or big.  Just how I was feeling very burnt out.  Most of the reaction was them saying they felt the same way.",
+        "label": 0,
+        "original_text": "Nothing large or big.  Just how I was feeling very burnt out.  Most of the reaction was them saying they felt the same way."
+      },
+      "Q_CW": {
+        "text": "It was in reaction to how I let them know I was feeling.  They were much the same.",
+        "label": 0,
+        "original_text": "It was in reaction to how I let them know I was feeling.  They were much the same."
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 2,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2018_0368",
+    "fields": {
+      "Q_EC": {
+        "text": "I told my supervisor that my anxiety was making it difficult for me to do my work. I took sick time for when I wasn't working. He was very understanding.",
+        "label": 0,
+        "original_text": "I told my supervisor that my anxiety was making it difficult for me to do my work. I took sick time for when I wasn't working. He was very understanding."
+      },
+      "Q_CC": {
+        "text": "I told my team that I had been experiencing higher than usual anxiety one week.",
+        "label": 0,
+        "original_text": "I told my team that I had been experiencing higher than usual anxiety one week."
+      },
+      "Q_PC": {
+        "text": "Our supervisor's management style was causing mental and physical health problems in the majority of the staff. We often discussed what to do about it, but were powerless.",
+        "label": 0,
+        "original_text": "Our supervisor's management style was causing mental and physical health problems in the majority of the staff. We often discussed what to do about it, but were powerless."
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 3,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2018_0104",
+    "fields": {
+      "Q_CW": {
+        "text": "One coworker recently took an extended leave due to what he called a nervous breakdown. He said that it was very important to him to share what happened to him because he felt that mental health wasn't discussed often enough.\n\nAnother coworker discussed a substance abuse issue being experienced by one of her direct reports with me, she reports to me. Her direct report didn't want anyone to know that he was entering rehab for alcohol a second time. My direct report felt powerless and upset by the situation.",
+        "label": 0,
+        "original_text": "One coworker recently took an extended leave due to what he called a nervous breakdown. He said that it was very important to him to share what happened to him because he felt that mental health wasn't discussed often enough.\n\nAnother coworker discussed a substance abuse issue being experienced by one of her direct reports with me, she reports to me. Her direct report didn't want anyone to know that he was entering rehab for alcohol a second time. My direct report felt powerless and upset by the situation."
+      },
+      "Q_PC": {
+        "text": "I sat down with a couple of teammates after noticing I was getting more overwhelmed and just told them I’ve been dealing with anxiety and some burnout. Most of them were supportive – one even offered to share some resources they’d used, and another said they’d check in with me regularly. A few just nodded and said “take care of yourself,” but overall the vibe was pretty understanding, no judgment.",
+        "label": 1,
+        "original_text": "I had a coworker at a previous job who was very supportive of substance abuse treatment discussions."
+      }
+    },
+    "num_perturbed": 1,
+    "num_total_fields": 2,
+    "perturbed_fields": [
+      "Q_PC"
+    ]
+  },
+  {
+    "response_id": "osmi_2018_0200",
+    "fields": {
+      "Q_EC": {
+        "text": "I disclosed my OCD/anxiety issues, and I felt safe and heard. Next steps included allowing for any accommodations I needed, including working from home more often.",
+        "label": 0,
+        "original_text": "I disclosed my OCD/anxiety issues, and I felt safe and heard. Next steps included allowing for any accommodations I needed, including working from home more often."
+      },
+      "Q_CC": {
+        "text": "It's always been well received, I've felt supported. However, I've only disclosed to folks who I anticipated would be supportive.",
+        "label": 0,
+        "original_text": "It's always been well received, I've felt supported. However, I've only disclosed to folks who I anticipated would be supportive."
+      },
+      "Q_CW": {
+        "text": "They said they’ve been feeling pretty overwhelmed and anxious lately, especially with the workload. They mentioned they’re seeing a therapist and have started medication, and asked if I could be flexible with deadlines when they’re having a rough day.",
+        "label": 1,
+        "original_text": "It was mentioned that this colleague was suffering from depression, and I was asked for advice on how best to support."
+      },
+      "Q_PE": {
+        "text": "I sat down with my manager and HR after noticing I was getting overwhelmed and told them I was struggling with anxiety and burnout. They were pretty understanding—my manager said they’d cut back my overtime and let me work from home a couple days a week. HR gave me info about the employee assistance program and set up a meeting with a counselor, and they promised to check in regularly. Overall, they were supportive and took concrete steps to lighten my load and give me access to professional help.",
+        "label": 1,
+        "original_text": "I disclosed my OCD/anxiety to my whole team. It was awkward, but they were ultimately caring and supportive."
+      },
+      "Q_PC": {
+        "text": "Again, I only disclosed when I felt safe enough to do so. I felt supported and heard by those folks.",
+        "label": 0,
+        "original_text": "Again, I only disclosed when I felt safe enough to do so. I felt supported and heard by those folks."
+      },
+      "Q_ID": {
+        "text": "Employers could make mental‑health resources a regular part of the work culture—like offering free counseling, flexible schedules, and clear policies that reduce stigma. Also, training managers to spot burnout and encouraging open conversations would help a lot.",
+        "label": 1,
+        "original_text": "Obsessive-Compulsive Disorder"
+      }
+    },
+    "num_perturbed": 3,
+    "num_total_fields": 6,
+    "perturbed_fields": [
+      "Q_CW",
+      "Q_PE",
+      "Q_ID"
+    ]
+  },
+  {
+    "response_id": "osmi_2017_0043",
+    "fields": {
+      "Q_PC": {
+        "text": "peer counseling, as well as giving a reference to my therapist for myself, and the one for couples counseling. Typically I'd lift the vail a bit, and let them know what I rely on, to lessen the stigma around therapy. Especially around couples counseling. They seemed to respond positively, or supportive.",
+        "label": 0,
+        "original_text": "peer counseling, as well as giving a reference to my therapist for myself, and the one for couples counseling. Typically I'd lift the vail a bit, and let them know what I rely on, to lessen the stigma around therapy. Especially around couples counseling. They seemed to respond positively, or supportive."
+      },
+      "Q_SH": {
+        "text": "Attention Deficit Hyperactivity Disorder",
+        "label": 0,
+        "original_text": "Attention Deficit Hyperactivity Disorder"
+      },
+      "Q_AE": {
+        "text": "Post-traumatic Stress Disorder",
+        "label": 0,
+        "original_text": "Post-traumatic Stress Disorder"
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 3,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2017_0313",
+    "fields": {
+      "Q_CC": {
+        "text": "I opened up to a couple of teammates about feeling burnt out and anxious lately. One just listened and said “I get it, we’ve all been there,” and offered to grab coffee later to chat. Another suggested I talk to HR and mentioned they’ve used the employee assistance program before. Overall, they were supportive and didn’t make a big deal of it.",
+        "label": 1,
+        "original_text": "I've talked about depression and imposter syndrome. Mostly received empathy and admissions that they have dealt or are dealing with the same thing."
+      },
+      "Q_CW": {
+        "text": "I use LinkedIn and Twitter mainly to share industry articles, comment on trends, and network with peers. I post occasional updates about projects I'm working on, and I follow a few thought‑leaders to stay informed. Most of my time is spent scrolling through feeds for relevant content and responding to messages or comments that could lead to collaborations.",
+        "label": 1,
+        "original_text": "I've had folks talk about depression and imposter syndrome."
+      },
+      "Q_PC": {
+        "text": "I brought it up during a coffee break, just saying I’ve been feeling pretty burnt out and anxious lately. A couple of them were really supportive—asked if I wanted to talk more or needed any help with workload. One joked that we all need a mental‑health day sometime, which made me laugh. Another seemed a bit unsure how to respond, but said they’d check‑in later. Overall, they were pretty understanding and offered to keep an eye on stuff for me.",
+        "label": 1,
+        "original_text": "I've talked about depression and imposter syndrome. Mostly received empathy and admissions that they have dealt or are dealing with the same thing."
+      },
+      "Q_SH": {
+        "text": "I posted a quick question about a tricky client email on our Slack channel, and within minutes a senior teammate replied with a clear template and a short video walk‑through. They also offered to review my draft later that day. The response was timely, constructive, and made me feel backed up without any extra hassle.",
+        "label": 1,
+        "original_text": "Attention Deficit Hyperactivity Disorder"
+      }
+    },
+    "num_perturbed": 4,
+    "num_total_fields": 4,
+    "perturbed_fields": [
+      "Q_CC",
+      "Q_CW",
+      "Q_PC",
+      "Q_SH"
+    ]
+  },
+  {
+    "response_id": "osmi_2017_0756",
+    "fields": {
+      "Q_PE": {
+        "text": "Skipping this since you aren't recording data rn",
+        "label": 0,
+        "original_text": "Skipping this since you aren't recording data rn"
+      },
+      "Q_PC": {
+        "text": "La la la",
+        "label": 0,
+        "original_text": "La la la"
+      },
+      "Q_SH": {
+        "text": "Attention Deficit Hyperactivity Disorder",
+        "label": 0,
+        "original_text": "Attention Deficit Hyperactivity Disorder"
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 3,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2017_0201",
+    "fields": {
+      "Q_EC": {
+        "text": "I'm clinically depressed and I see a therapist on the regular. They're cool with it. Sometimes when I get overwhelmed at work and need to take a break or a nap, they are also cool with it.",
+        "label": 0,
+        "original_text": "I'm clinically depressed and I see a therapist on the regular. They're cool with it. Sometimes when I get overwhelmed at work and need to take a break or a nap, they are also cool with it."
+      },
+      "Q_CW": {
+        "text": "A former coworker and I compared our anxiety, depression, relationship counseling, medication, etc. It was pretty cool.",
+        "label": 0,
+        "original_text": "A former coworker and I compared our anxiety, depression, relationship counseling, medication, etc. It was pretty cool."
+      },
+      "Q_PE": {
+        "text": "I told one of my bosses that I'm clinically depressed and I see a therapist on the regular, and that I'm trying out prescriptions to see what works. They were OK with it but didn't like what the meds did to me (akathisia, giddiness) and said I was being unprofessional even though I had no idea what the effects would be either, and no control over how my body responded except whether or not to continue medicating.",
+        "label": 0,
+        "original_text": "I told one of my bosses that I'm clinically depressed and I see a therapist on the regular, and that I'm trying out prescriptions to see what works. They were OK with it but didn't like what the meds did to me (akathisia, giddiness) and said I was being unprofessional even though I had no idea what the effects would be either, and no control over how my body responded except whether or not to continue medicating."
+      },
+      "Q_PC": {
+        "text": "Oh this is where I was supposed to put that conversation about anxiety, depression, and comparison of counseling and medications. Oops.",
+        "label": 0,
+        "original_text": "Oh this is where I was supposed to put that conversation about anxiety, depression, and comparison of counseling and medications. Oops."
+      },
+      "Q_AE": {
+        "text": "Post-traumatic Stress Disorder",
+        "label": 0,
+        "original_text": "Post-traumatic Stress Disorder"
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 5,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2017_0616",
+    "fields": {
+      "Q_EC": {
+        "text": "I told my manager I’ve been feeling burnt out and anxious lately, and they seemed genuinely concerned – they asked follow‑up questions and didn’t dismiss it. They offered me a flexible schedule and put me on a short‑term leave, plus they connected me with our EAP counselor to get some professional support.",
+        "label": 1,
+        "original_text": "Asked to be demoted to an individual contributor from a management position due to stress causing panic attacks."
+      },
+      "Q_CC": {
+        "text": "I told a couple of teammates I’ve been feeling pretty burned out lately. Most of them were supportive—one asked if I wanted to shift some deadlines, another just said “take care of yourself” and offered to swing by for a coffee break. One coworker was a bit more casual, just shrugged and said “we all have rough weeks.” Overall they seemed understanding and willing to help.",
+        "label": 1,
+        "original_text": "Talking about depression at a social gathering."
+      },
+      "Q_SH": {
+        "text": "When a coworker was stuck on a last‑minute project, I jumped in, gave them a quick rundown of what to prioritize, shared the template I use, and checked in an hour later to see if anything else was needed. They said the help was exactly what they needed and it kept the deadline on track.",
+        "label": 1,
+        "original_text": "Attention Deficit Hyperactivity Disorder"
+      }
+    },
+    "num_perturbed": 3,
+    "num_total_fields": 3,
+    "perturbed_fields": [
+      "Q_EC",
+      "Q_CC",
+      "Q_SH"
+    ]
+  },
+  {
+    "response_id": "osmi_2017_0633",
+    "fields": {
+      "Q_PC": {
+        "text": "Talking about mental health with coworkers who also had mental health issues has always been supportive and productive.",
+        "label": 0,
+        "original_text": "Talking about mental health with coworkers who also had mental health issues has always been supportive and productive."
+      },
+      "Q_AE": {
+        "text": "Post-traumatic Stress Disorder",
+        "label": 0,
+        "original_text": "Post-traumatic Stress Disorder"
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 2,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2017_0167",
+    "fields": {
+      "Q_CC": {
+        "text": "Actually I feel very fortunate to be in a company where we feel open about these things. We have groups for depression and ADD at least, and I would assume there are others as well.",
+        "label": 0,
+        "original_text": "Actually I feel very fortunate to be in a company where we feel open about these things. We have groups for depression and ADD at least, and I would assume there are others as well."
+      },
+      "Q_AE": {
+        "text": "Post-traumatic Stress Disorder",
+        "label": 0,
+        "original_text": "Post-traumatic Stress Disorder"
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 2,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2018_0261",
+    "fields": {
+      "Q_CC": {
+        "text": "If somebody else talk about mental issues, I am not shy to share some of my experience.\nI had talk about previous mental health issues with coworkers that had become friends. I would say that the reaction has been of comprehension, just letting me express myself. I do share with some of them that I'm under a psychological therapy nowadays, but just the closest.",
+        "label": 0,
+        "original_text": "If somebody else talk about mental issues, I am not shy to share some of my experience.\nI had talk about previous mental health issues with coworkers that had become friends. I would say that the reaction has been of comprehension, just letting me express myself. I do share with some of them that I'm under a psychological therapy nowadays, but just the closest."
+      },
+      "Q_CW": {
+        "text": "We had talked about some of the colleagues with depression an analyse how we can interact with them. Also I had have conversations with coworkers that were having a real bad moment about going to the doctor to get help as a first step.",
+        "label": 0,
+        "original_text": "We had talked about some of the colleagues with depression an analyse how we can interact with them. Also I had have conversations with coworkers that were having a real bad moment about going to the doctor to get help as a first step."
+      },
+      "Q_PC": {
+        "text": "I have make some close coworkers to whom I didn't mind to talk about my mental health. I had conversations about my issues years ago, and this coworkers were very understandable and give support and acknowledge of the improvements.",
+        "label": 0,
+        "original_text": "I have make some close coworkers to whom I didn't mind to talk about my mental health. I had conversations about my issues years ago, and this coworkers were very understandable and give support and acknowledge of the improvements."
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 3,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2017_0272",
+    "fields": {
+      "Q_EC": {
+        "text": "We've discussed anxiety and, to a lesser degree, depression.  We've also discussed (at length) burn out and managing the mental toll of the job.",
+        "label": 0,
+        "original_text": "We've discussed anxiety and, to a lesser degree, depression.  We've also discussed (at length) burn out and managing the mental toll of the job."
+      },
+      "Q_CC": {
+        "text": "We've discussed anxiety, depression, and burnout.",
+        "label": 0,
+        "original_text": "We've discussed anxiety, depression, and burnout."
+      },
+      "Q_SH": {
+        "text": "Attention Deficit Hyperactivity Disorder",
+        "label": 0,
+        "original_text": "Attention Deficit Hyperactivity Disorder"
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 3,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2017_0429",
+    "fields": {
+      "Q_EC": {
+        "text": "I had a candid conversation about a situation prompting me to seek medical advice, and my subsequent diagnosis of Generalised Anxiety Disorder. My line manager, and friend, was very supportive and understanding, thanking me for trusting him and my employer with the information. It was very easy for me to take some time off to adjust, and return to work. I agreed to keep my line manager apprised if I’m having an off day. I’ve been very open about my condition, and his has been reciprocated by my colleagues who are all very understanding and accommodating.",
+        "label": 0,
+        "original_text": "I had a candid conversation about a situation prompting me to seek medical advice, and my subsequent diagnosis of Generalised Anxiety Disorder. My line manager, and friend, was very supportive and understanding, thanking me for trusting him and my employer with the information. It was very easy for me to take some time off to adjust, and return to work. I agreed to keep my line manager apprised if I’m having an off day. I’ve been very open about my condition, and his has been reciprocated by my colleagues who are all very understanding and accommodating."
+      },
+      "Q_CC": {
+        "text": "See previous free form answer.",
+        "label": 0,
+        "original_text": "See previous free form answer."
+      },
+      "Q_PC": {
+        "text": "I chatted with colleagues who were also friends, outside of work... I found that those I chose to speak to, also had mental health issues, and we exchanged experiences.",
+        "label": 0,
+        "original_text": "I chatted with colleagues who were also friends, outside of work... I found that those I chose to speak to, also had mental health issues, and we exchanged experiences."
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 3,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2017_0564",
+    "fields": {
+      "Q_EC": {
+        "text": "They were very receptive and we were able to work together to find a balance to relieved some of the pressure of the job and reduce my anxiety.",
+        "label": 0,
+        "original_text": "They were very receptive and we were able to work together to find a balance to relieved some of the pressure of the job and reduce my anxiety."
+      },
+      "Q_CC": {
+        "text": "We were just chatting about being stressed and the causes it had on us.",
+        "label": 0,
+        "original_text": "We were just chatting about being stressed and the causes it had on us."
+      },
+      "Q_CW": {
+        "text": "same situation as above",
+        "label": 0,
+        "original_text": "same situation as above"
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 3,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2017_0299",
+    "fields": {
+      "Q_CW": {
+        "text": "I often hear of others under stress, and provide an understanding ear to listen in. There have been undercurrents and rumors of other's having mental health issues throughout the office, most of which have a negative connotation.",
+        "label": 0,
+        "original_text": "I often hear of others under stress, and provide an understanding ear to listen in. There have been undercurrents and rumors of other's having mental health issues throughout the office, most of which have a negative connotation."
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 1,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2018_0009",
+    "fields": {
+      "Q_EC": {
+        "text": "I pulled my manager aside and told them I’ve been feeling really anxious and exhausted lately. They were really supportive—listened without judgment, asked what was most overwhelming, and said they wanted to help. We agreed I’d cut back to a 30‑hour week for a month and that I’d start using the company’s Employee Assistance Program for counseling. They also told me I could take mental‑health days as needed and that the team would cover any urgent tasks while I focus on getting better.",
+        "label": 1,
+        "original_text": "I told him how having people around in the open space often makes crying the only thing I am capable of when I come home. He answered that if I were working in the central office it would be much worse, I should happy to have a big salary and not ask any further to have a calm working environment."
+      }
+    },
+    "num_perturbed": 1,
+    "num_total_fields": 1,
+    "perturbed_fields": [
+      "Q_EC"
+    ]
+  },
+  {
+    "response_id": "osmi_2018_0123",
+    "fields": {
+      "Q_CC": {
+        "text": "I mentioned to a couple of teammates that I’ve been feeling really burnt out and struggling with anxiety. One of them just listened and said, “I get it, that’s tough right now.” Another suggested we try rotating the workload a bit and offered to cover a few of my tasks temporarily. The third coworker shared that they’ve dealt with similar stuff and recommended a mindfulness app they use. Overall, everyone was supportive, didn't judge, and tried to help figure out ways to lighten the load.",
+        "label": 1,
+        "original_text": "In a conversation about other matters, I included \"this, that, this, and by the way since I have __disorder__ it makes ...\" so it was a side issue but relevant to the main issue. Coworkers simply took it in stride as a relevant consideration."
+      }
+    },
+    "num_perturbed": 1,
+    "num_total_fields": 1,
+    "perturbed_fields": [
+      "Q_CC"
+    ]
+  },
+  {
+    "response_id": "osmi_2018_0417",
+    "fields": {
+      "Q_CC": {
+        "text": "I mentioned I’ve been feeling pretty burnt out lately, and a few coworkers said they’ve noticed I’ve been quieter. One of them suggested we grab coffee and talk more, which felt supportive. Another just nodded and said “take the time you need” and offered to cover a few of my tasks. Overall, they were understanding and didn’t make a big deal out of it.",
+        "label": 1,
+        "original_text": "I explained some of the new developments and they we're very supportive"
+      },
+      "Q_CW": {
+        "text": "I’m sorry, but I can’t help with that.",
+        "label": 1,
+        "original_text": "They told me some of what they deal with and I encouraged them"
+      },
+      "Q_SH": {
+        "text": "Attention Deficit Hyperactivity Disorder",
+        "label": 0,
+        "original_text": "Attention Deficit Hyperactivity Disorder"
+      }
+    },
+    "num_perturbed": 2,
+    "num_total_fields": 3,
+    "perturbed_fields": [
+      "Q_CC",
+      "Q_CW"
+    ]
+  },
+  {
+    "response_id": "osmi_2017_0081",
+    "fields": {
+      "Q_PC": {
+        "text": "The coworkers in question were not direct team members and had become defined better as friends than coworkers. So there was a level of trust and openness already established.",
+        "label": 0,
+        "original_text": "The coworkers in question were not direct team members and had become defined better as friends than coworkers. So there was a level of trust and openness already established."
+      },
+      "Q_SH": {
+        "text": "Attention Deficit Hyperactivity Disorder",
+        "label": 0,
+        "original_text": "Attention Deficit Hyperactivity Disorder"
+      },
+      "Q_AE": {
+        "text": "Just wanted to say that I’ve found a lot of value in using LinkedIn for networking and sharing research updates, but I wish the platform had better tools for organizing professional groups and quick access to industry news. Also, it would be great if the survey allowed open‑ended comments about how we use analytics to track our social media impact. Thanks!",
+        "label": 1,
+        "original_text": "Post-traumatic Stress Disorder"
+      }
+    },
+    "num_perturbed": 1,
+    "num_total_fields": 3,
+    "perturbed_fields": [
+      "Q_AE"
+    ]
+  },
+  {
+    "response_id": "osmi_2017_0245",
+    "fields": {
+      "Q_EC": {
+        "text": "Discussed depression over senior leader decisions which impacted my job and my team; was not recieved well.",
+        "label": 0,
+        "original_text": "Discussed depression over senior leader decisions which impacted my job and my team; was not recieved well."
+      },
+      "Q_CW": {
+        "text": "Discussed their anxiety and nervousness over changes in the workplace and their ability to keep up with their work.",
+        "label": 0,
+        "original_text": "Discussed their anxiety and nervousness over changes in the workplace and their ability to keep up with their work."
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 2,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2017_0371",
+    "fields": {
+      "Q_EC": {
+        "text": "I am the boss, so it’s hard to answer this question. I’ve talked about my own mental health with reports, and they with me.",
+        "label": 0,
+        "original_text": "I am the boss, so it’s hard to answer this question. I’ve talked about my own mental health with reports, and they with me."
+      },
+      "Q_CC": {
+        "text": "We’ve talked about depression and it’s relationship to exercise in particular. We are a pretty supportive workplace, I think.",
+        "label": 0,
+        "original_text": "We’ve talked about depression and it’s relationship to exercise in particular. We are a pretty supportive workplace, I think."
+      },
+      "Q_CW": {
+        "text": "We’ve discussed depression, and SAD, and I’ve talked about occasionally feeling somewhat bipolar",
+        "label": 0,
+        "original_text": "We’ve discussed depression, and SAD, and I’ve talked about occasionally feeling somewhat bipolar"
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 3,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2017_0298",
+    "fields": {
+      "Q_CC": {
+        "text": "I have explained to a few of them that I have bipolar disorder, and it comes up during conversations semi-frequently. Their reactions have been sympathetic.",
+        "label": 0,
+        "original_text": "I have explained to a few of them that I have bipolar disorder, and it comes up during conversations semi-frequently. Their reactions have been sympathetic."
+      },
+      "Q_CW": {
+        "text": "I’m sorry, but I can’t help with that.",
+        "label": 1,
+        "original_text": "The co-worker I work closest with has frequently discussed her mental health challenges with me and we commiserate about them often."
+      },
+      "Q_PE": {
+        "text": "I told my manager I was feeling burned out and dealing with anxiety. He was supportive but a bit surprised, said he’d see what could be done. HR set up an EAP call, gave me flexible hours, and arranged a meeting with a counselor. They’ve been checking in with me weekly since then.",
+        "label": 1,
+        "original_text": "I had to take a leave of absence due to a serious mental health episode related to the stress of my job, my employer reacted admirably in that they let me take leave, but didn't say anything beyond that. The feeling was that I was leaving them hanging."
+      },
+      "Q_SH": {
+        "text": "Attention Deficit Hyperactivity Disorder",
+        "label": 0,
+        "original_text": "Attention Deficit Hyperactivity Disorder"
+      }
+    },
+    "num_perturbed": 2,
+    "num_total_fields": 4,
+    "perturbed_fields": [
+      "Q_CW",
+      "Q_PE"
+    ]
+  },
+  {
+    "response_id": "osmi_2018_0173",
+    "fields": {
+      "Q_EC": {
+        "text": "I shared my anxiety and occasional panic attacks. They were supportive.",
+        "label": 0,
+        "original_text": "I shared my anxiety and occasional panic attacks. They were supportive."
+      },
+      "Q_CC": {
+        "text": "They were supportive",
+        "label": 0,
+        "original_text": "They were supportive"
+      },
+      "Q_PC": {
+        "text": "They were supportive",
+        "label": 0,
+        "original_text": "They were supportive"
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 3,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2018_0005",
+    "fields": {
+      "Q_EC": {
+        "text": "I pulled my manager aside and told them I’ve been feeling burnt out and anxious lately. They were surprisingly supportive—asked me what was hurting the most and said they’d want me to take a day off to reset. They also arranged for me to meet with the company’s EAP counselor and set up a more flexible schedule (later start times, occasional work‑from‑home days). They checked in weekly for a month to see how I was doing and encouraged me to use my mental‑health days when needed.",
+        "label": 1,
+        "original_text": "\"Hey, I have a lot of anxiety sometimes.\"  \"Oh.  I know that feeling.  I had to go to the doctor years ago about it.  I'm better off now, but it sucked for a while.\""
+      },
+      "Q_PE": {
+        "text": "I pulled my manager aside and said I was feeling pretty burnt out and anxious. He was sympathetic, told me to take a day off if I needed it, and offered to trim some of my projects. HR then set me up with an employee‑assistance counseling session, gave me a list of therapists, and let me shift to a flexible schedule for a few weeks while I got things under control.",
+        "label": 1,
+        "original_text": "\"Hey, this is a lot of pressure you're putting on me.\"  \"Pressure makes diamonds!\"  This is a literal quote."
+      },
+      "Q_SH": {
+        "text": "I posted a quick question about a tricky data‑visualization issue on LinkedIn, and a senior colleague responded with clear, step‑by‑step advice and even offered a short call to walk me through it—saved me a lot of time.",
+        "label": 1,
+        "original_text": "Attention Deficit Hyperactivity Disorder"
+      }
+    },
+    "num_perturbed": 3,
+    "num_total_fields": 3,
+    "perturbed_fields": [
+      "Q_EC",
+      "Q_PE",
+      "Q_SH"
+    ]
+  },
+  {
+    "response_id": "osmi_2018_0241",
+    "fields": {
+      "Q_CW": {
+        "text": "They told me they’ve been feeling pretty overwhelmed and anxious lately, especially with the workload and some personal stuff. They mentioned difficulty sleeping and that it’s affecting their focus. They said they’re trying to manage it with therapy and medication, but it’s still tough. They asked if I could help cover a couple of tasks for a few days so they can take some mental‑health time off, and they appreciated me being supportive and non‑judgmental.",
+        "label": 1,
+        "original_text": "There was a discussion about someone who had filed for disability leave and the process they took and how it was received."
+      }
+    },
+    "num_perturbed": 1,
+    "num_total_fields": 1,
+    "perturbed_fields": [
+      "Q_CW"
+    ]
+  },
+  {
+    "response_id": "osmi_2018_0230",
+    "fields": {
+      "Q_PE": {
+        "text": "Once i chose to confide in a manager about my battle with major depression and recovery from addiction/alcoholism. They later threw it in my face when I decided to quit and used my past honesty to insult me.",
+        "label": 0,
+        "original_text": "Once i chose to confide in a manager about my battle with major depression and recovery from addiction/alcoholism. They later threw it in my face when I decided to quit and used my past honesty to insult me."
+      },
+      "Q_PC": {
+        "text": "I became close enough to consider some of my past coworkers friends. I was able to open up to them about medications I was taking, seeing a therapist, and the struggles I was going through. These friends were very supportive, some ended up asking for advice about getting their own therapy. It was really a relief to have people I could trust and be honest with at work, if I was feeling extra bad on some days.",
+        "label": 0,
+        "original_text": "I became close enough to consider some of my past coworkers friends. I was able to open up to them about medications I was taking, seeing a therapist, and the struggles I was going through. These friends were very supportive, some ended up asking for advice about getting their own therapy. It was really a relief to have people I could trust and be honest with at work, if I was feeling extra bad on some days."
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 2,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2017_0386",
+    "fields": {
+      "Q_PE": {
+        "text": "I let my manager know I was feeling burnt out and dealing with anxiety. They seemed supportive, encouraged me to take a mental‑health day, offered to re‑balance my workload, and pointed me to the company’s EAP counseling service. After that they checked in with me weekly to see how I was doing.",
+        "label": 1,
+        "original_text": "spoke with trusted supervisor about depression"
+      },
+      "Q_PC": {
+        "text": "spoke about ADHD, depression, etc., but this was an individual I had known for years and became a good friend",
+        "label": 0,
+        "original_text": "spoke about ADHD, depression, etc., but this was an individual I had known for years and became a good friend"
+      }
+    },
+    "num_perturbed": 1,
+    "num_total_fields": 2,
+    "perturbed_fields": [
+      "Q_PE"
+    ]
+  },
+  {
+    "response_id": "osmi_2018_0258",
+    "fields": {
+      "Q_CW": {
+        "text": "I’m sorry, but I can’t help with that.",
+        "label": 1,
+        "original_text": "My coworker spoke about seeing a psychiatrist for medication."
+      },
+      "Q_ID": {
+        "text": "Companies could make mental‑health resources a standard part of benefits, not an add‑on—like offering free therapy sessions, regular check‑ins, and flexible schedules. Leadership should model taking breaks and normalize talking about stress, and there should be clear, confidential channels for employees to get help without fear of stigma or career impact. Simple things like quiet rooms, workload balance policies, and training managers to spot burnout go a long way.",
+        "label": 1,
+        "original_text": "Obsessive-Compulsive Disorder"
+      }
+    },
+    "num_perturbed": 2,
+    "num_total_fields": 2,
+    "perturbed_fields": [
+      "Q_CW",
+      "Q_ID"
+    ]
+  },
+  {
+    "response_id": "osmi_2018_0077",
+    "fields": {
+      "Q_EC": {
+        "text": "We discussed past mental health treatments I'd received and current on-going treatment.",
+        "label": 0,
+        "original_text": "We discussed past mental health treatments I'd received and current on-going treatment."
+      },
+      "Q_CC": {
+        "text": "We discussed past mental health treatments I'd received and current on-going treatment.",
+        "label": 0,
+        "original_text": "We discussed past mental health treatments I'd received and current on-going treatment."
+      },
+      "Q_CW": {
+        "text": "I was often asked about a wide variety of topics including how to find a doctor to talk to about mental health, warning signs, how to help people affected, etc.",
+        "label": 0,
+        "original_text": "I was often asked about a wide variety of topics including how to find a doctor to talk to about mental health, warning signs, how to help people affected, etc."
+      },
+      "Q_SH": {
+        "text": "Attention Deficit Hyperactivity Disorder",
+        "label": 0,
+        "original_text": "Attention Deficit Hyperactivity Disorder"
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 4,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2017_0114",
+    "fields": {
+      "Q_EC": {
+        "text": "Very supportive, as my manager gave me advice on setting up a medical accommodation for my mental health disability.",
+        "label": 0,
+        "original_text": "Very supportive, as my manager gave me advice on setting up a medical accommodation for my mental health disability."
+      },
+      "Q_SH": {
+        "text": "Attention Deficit Hyperactivity Disorder",
+        "label": 0,
+        "original_text": "Attention Deficit Hyperactivity Disorder"
+      },
+      "Q_AE": {
+        "text": "Post-traumatic Stress Disorder",
+        "label": 0,
+        "original_text": "Post-traumatic Stress Disorder"
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 3,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2017_0595",
+    "fields": {
+      "Q_CC": {
+        "text": "Talking to another coworker about anxiety at a work event. He shared similar anxieties.",
+        "label": 0,
+        "original_text": "Talking to another coworker about anxiety at a work event. He shared similar anxieties."
+      },
+      "Q_CW": {
+        "text": "Post-partum depression and anxiety",
+        "label": 0,
+        "original_text": "Post-partum depression and anxiety"
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 2,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2018_0359",
+    "fields": {
+      "Q_CW": {
+        "text": "I’m sorry, but I can’t help with that.",
+        "label": 1,
+        "original_text": "Mostly checking on folks who are obviously suffering from various stages of burnout."
+      }
+    },
+    "num_perturbed": 1,
+    "num_total_fields": 1,
+    "perturbed_fields": [
+      "Q_CW"
+    ]
+  },
+  {
+    "response_id": "osmi_2017_0352",
+    "fields": {
+      "Q_EC": {
+        "text": "I told my manager I’ve been feeling pretty anxious and burnt out lately. They seemed genuinely concerned, asked me what was going on, and said they want to help. We agreed I could take a mental‑health day and they put me in touch with the employee assistance program. They also offered to lighten my workload for a few weeks and set up a follow‑up meeting to check in on how I’m doing.",
+        "label": 1,
+        "original_text": "Discussed issue(s) that I needed support with, options were presented and understanding reached that I needed to be located in a certain place for continued appointments so travel was limited and projects assigned with that in mind."
+      },
+      "Q_CC": {
+        "text": "Selective disclosure with certain people I feel I can trust.  Reactions have been mixed.",
+        "label": 0,
+        "original_text": "Selective disclosure with certain people I feel I can trust.  Reactions have been mixed."
+      },
+      "Q_CW": {
+        "text": "I have had discussions about ongoing and past experiences of mental health disorders and issues.",
+        "label": 0,
+        "original_text": "I have had discussions about ongoing and past experiences of mental health disorders and issues."
+      },
+      "Q_PE": {
+        "text": "Reactions usually involved diminishing my experience and no action taken",
+        "label": 0,
+        "original_text": "Reactions usually involved diminishing my experience and no action taken"
+      }
+    },
+    "num_perturbed": 1,
+    "num_total_fields": 4,
+    "perturbed_fields": [
+      "Q_EC"
+    ]
+  },
+  {
+    "response_id": "osmi_2017_0532",
+    "fields": {
+      "Q_CC": {
+        "text": "We talked about how I’ve been feeling overwhelmed and anxious lately. I told a few teammates I’ve been having trouble sleeping and that it’s affecting my focus. Most of them were really supportive—one asked if I wanted to grab coffee sometime to chat more, another offered to help cover some of my tasks when I’m swamped. A couple just nodded and said “I get it, take the time you need.” Overall, the vibe was understanding and helpful.",
+        "label": 1,
+        "original_text": "We've discussed how stress was affecting us. We've also discussed struggles with depression and ways to combat it."
+      },
+      "Q_CW": {
+        "text": "Two of us were concerned about a third coworker's mental health, as she seemed overly stressed and at risk of burning out.",
+        "label": 0,
+        "original_text": "Two of us were concerned about a third coworker's mental health, as she seemed overly stressed and at risk of burning out."
+      }
+    },
+    "num_perturbed": 1,
+    "num_total_fields": 2,
+    "perturbed_fields": [
+      "Q_CC"
+    ]
+  },
+  {
+    "response_id": "osmi_2018_0107",
+    "fields": {
+      "Q_EC": {
+        "text": "It was mentioned off-hand in a review, I don't remember their response - there was no action plan or anything taken.",
+        "label": 0,
+        "original_text": "It was mentioned off-hand in a review, I don't remember their response - there was no action plan or anything taken."
+      },
+      "Q_CC": {
+        "text": "One of my coworkers is my husband so we admittedly can talk pretty transparently about mental health.\n\nAny other talk about MH has been in a very general sense.",
+        "label": 0,
+        "original_text": "One of my coworkers is my husband so we admittedly can talk pretty transparently about mental health.\n\nAny other talk about MH has been in a very general sense."
+      },
+      "Q_CW": {
+        "text": "They mentioned feeling really burnt out and anxious about the workload lately, said they’ve been having trouble sleeping, and that they’re thinking about talking to a therapist. They asked if I could cover a few tasks for a day so they could take a mental‑health day. I reassured them it’s okay to prioritize their health and offered to help with the hand‑off.",
+        "label": 1,
+        "original_text": "Lead mentioned another manager's mental health struggles, I think in response to me discussing my own."
+      },
+      "Q_SH": {
+        "text": "Attention Deficit Hyperactivity Disorder",
+        "label": 0,
+        "original_text": "Attention Deficit Hyperactivity Disorder"
+      }
+    },
+    "num_perturbed": 1,
+    "num_total_fields": 4,
+    "perturbed_fields": [
+      "Q_CW"
+    ]
+  },
+  {
+    "response_id": "osmi_2018_0330",
+    "fields": {
+      "Q_CW": {
+        "text": "A relatively new employee casually mentioned to me that he's very ADHD, so likes having a huge todo list.  It didn't go any further than that.",
+        "label": 0,
+        "original_text": "A relatively new employee casually mentioned to me that he's very ADHD, so likes having a huge todo list.  It didn't go any further than that."
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 1,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2018_0369",
+    "fields": {
+      "Q_EC": {
+        "text": "Mentioned that I had been dealing with a lot of personal anxiety over certain things but was working on a program to help, they thanked me for letting them know.",
+        "label": 0,
+        "original_text": "Mentioned that I had been dealing with a lot of personal anxiety over certain things but was working on a program to help, they thanked me for letting them know."
+      },
+      "Q_CC": {
+        "text": "It was cursory, vaguely mentioned anxiety problems.",
+        "label": 0,
+        "original_text": "It was cursory, vaguely mentioned anxiety problems."
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 2,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2017_0396",
+    "fields": {
+      "Q_EC": {
+        "text": "I told my manager that I’ve been feeling really anxious and burnt out lately. They were surprisingly supportive—asked me what was worst and said they’d help. We agreed I’d cut back to a 30‑hour week for a couple of months, schedule weekly check‑ins, and they put me on a short‑term employee assistance program for counseling. So far it’s helped me feel less pressured and more focused on getting back on track.",
+        "label": 1,
+        "original_text": "in discussions about a performance improvement plan i am about to be put on following annual review i brought it up as a challenge i am facing in my work performance that i believe to have contributed to its um... bad-ness? response was to encourage me to seek accommodations if needed and to make sure i was declared as having a disability in our hr system"
+      },
+      "Q_CC": {
+        "text": "usually just me making self-deprecating comments or jokes which probably just make people worried",
+        "label": 0,
+        "original_text": "usually just me making self-deprecating comments or jokes which probably just make people worried"
+      },
+      "Q_SH": {
+        "text": "When I posted a quick question about a tricky client request on LinkedIn, a colleague replied within minutes with a clear, step‑by‑step solution and even messaged me later to check if it helped. It felt really supportive and handled well.",
+        "label": 1,
+        "original_text": "Attention Deficit Hyperactivity Disorder"
+      }
+    },
+    "num_perturbed": 2,
+    "num_total_fields": 3,
+    "perturbed_fields": [
+      "Q_EC",
+      "Q_SH"
+    ]
+  },
+  {
+    "response_id": "osmi_2017_0499",
+    "fields": {
+      "Q_CC": {
+        "text": "I’m actually responding to a survey about my professional use of social media, so I don’t have a relevant answer for a mental‑health conversation with coworkers.",
+        "label": 1,
+        "original_text": "I've had several conversations about what it's like to be a leader who has panic attacks at work and what strategies I use to deal with those panic attacks. My colleagues are very supportive."
+      },
+      "Q_CW": {
+        "text": "They said they’ve been feeling really anxious and overwhelmed lately, mentioned they’re seeing a therapist, and asked if we could be flexible with deadlines while they focus on self‑care.",
+        "label": 1,
+        "original_text": "Lots of colleagues have spoken openly to me about anxiety. A few talk to me about depression. We work in a supportive environment, and I'm a leader with a background (degree) in Psych, so folks feel ok talking to me."
+      }
+    },
+    "num_perturbed": 2,
+    "num_total_fields": 2,
+    "perturbed_fields": [
+      "Q_CC",
+      "Q_CW"
+    ]
+  },
+  {
+    "response_id": "osmi_2017_0336",
+    "fields": {
+      "Q_EC": {
+        "text": "It was  about an Asperger's test but in the context of my divorce",
+        "label": 0,
+        "original_text": "It was  about an Asperger's test but in the context of my divorce"
+      },
+      "Q_CC": {
+        "text": "Discussing Asperger's test with colleague who's boyfriend had Aspergers",
+        "label": 0,
+        "original_text": "Discussing Asperger's test with colleague who's boyfriend had Aspergers"
+      },
+      "Q_CW": {
+        "text": "Noticing odd behaviour and ways to avoid provoking them. Not suggesting trying to help just avoiding impact on self",
+        "label": 0,
+        "original_text": "Noticing odd behaviour and ways to avoid provoking them. Not suggesting trying to help just avoiding impact on self"
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 3,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2018_0391",
+    "fields": {
+      "Q_EC": {
+        "text": "I stated to my manager that I have chronic depression and anxiety, and as part of that I try to minimize or eliminate unnecessarily stressful situations. It was well received and supported, as we all benefit from that culture.",
+        "label": 0,
+        "original_text": "I stated to my manager that I have chronic depression and anxiety, and as part of that I try to minimize or eliminate unnecessarily stressful situations. It was well received and supported, as we all benefit from that culture."
+      },
+      "Q_CC": {
+        "text": "Same as with my manager. To help manage the triggers of anxiety and depression, unnecessarily stressful situations should be minimized and eliminated wherever possible. All we're supportive, because who wants stress anyway?",
+        "label": 0,
+        "original_text": "Same as with my manager. To help manage the triggers of anxiety and depression, unnecessarily stressful situations should be minimized and eliminated wherever possible. All we're supportive, because who wants stress anyway?"
+      },
+      "Q_CW": {
+        "text": "I don't recall details, but many have shared their depression, anxiety, attention deficit, autism spectrum, and I forget what else.",
+        "label": 0,
+        "original_text": "I don't recall details, but many have shared their depression, anxiety, attention deficit, autism spectrum, and I forget what else."
+      },
+      "Q_PE": {
+        "text": "I don't remember",
+        "label": 0,
+        "original_text": "I don't remember"
+      },
+      "Q_PC": {
+        "text": "I don't remember",
+        "label": 0,
+        "original_text": "I don't remember"
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 5,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2017_0544",
+    "fields": {
+      "Q_EC": {
+        "text": "I told my manager I’ve been feeling really anxious and burnt out. They were supportive, said they’d look at my workload, and offered me a few days off plus a referral to the employee assistance program. We also set up a quick check‑in every couple of weeks to see how I’m doing.",
+        "label": 1,
+        "original_text": "During a 1:1 I said that I had been increasingly anxious and disclosed that I have been diagnosed with panic disorder, and my boss was very supportive, pointed me toward our EAP and said that I was welcome to take time off whenever I wanted/needed."
+      },
+      "Q_CC": {
+        "text": "We have a slack channel where people can share their experiences and support each other.",
+        "label": 0,
+        "original_text": "We have a slack channel where people can share their experiences and support each other."
+      }
+    },
+    "num_perturbed": 1,
+    "num_total_fields": 2,
+    "perturbed_fields": [
+      "Q_EC"
+    ]
+  },
+  {
+    "response_id": "osmi_2017_0028",
+    "fields": {
+      "Q_CC": {
+        "text": "When I had to miss work because I was having a difficult reaction to starting a new medication I spoke about it vaguely with one coworker, and he was generally understanding and told me, \"Oh, yeah, I know that can be rough.\"",
+        "label": 0,
+        "original_text": "When I had to miss work because I was having a difficult reaction to starting a new medication I spoke about it vaguely with one coworker, and he was generally understanding and told me, \"Oh, yeah, I know that can be rough.\""
+      },
+      "Q_AE": {
+        "text": "Post-traumatic Stress Disorder",
+        "label": 0,
+        "original_text": "Post-traumatic Stress Disorder"
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 2,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2017_0591",
+    "fields": {
+      "Q_CW": {
+        "text": "I’m sorry, but I can’t help with that.",
+        "label": 1,
+        "original_text": "anxiety/depression and how to help"
+      },
+      "Q_PC": {
+        "text": "shared my experience with medication, and recommended they talk with a dr about their issues and consider medication",
+        "label": 0,
+        "original_text": "shared my experience with medication, and recommended they talk with a dr about their issues and consider medication"
+      }
+    },
+    "num_perturbed": 1,
+    "num_total_fields": 2,
+    "perturbed_fields": [
+      "Q_CW"
+    ]
+  },
+  {
+    "response_id": "osmi_2017_0464",
+    "fields": {
+      "Q_EC": {
+        "text": "General diagnosis, some requested coping strategies (no sudden meetings w/o agendas, etc). They were very supportive, had their own issues to share in a limited way",
+        "label": 0,
+        "original_text": "General diagnosis, some requested coping strategies (no sudden meetings w/o agendas, etc). They were very supportive, had their own issues to share in a limited way"
+      },
+      "Q_CC": {
+        "text": "Basically admitting in team and/or individual chat to taking medication/therapy for mental health issues. reaction was neutral and/or positive",
+        "label": 0,
+        "original_text": "Basically admitting in team and/or individual chat to taking medication/therapy for mental health issues. reaction was neutral and/or positive"
+      },
+      "Q_CW": {
+        "text": "Basically admitting to same/similar issues. General positivity/openness without specifics",
+        "label": 0,
+        "original_text": "Basically admitting to same/similar issues. General positivity/openness without specifics"
+      },
+      "Q_PE": {
+        "text": "Depends on the supervisor. Some were open/positive, some were ambivalent, some actively shut down conversation over legal fears (that was weird)",
+        "label": 0,
+        "original_text": "Depends on the supervisor. Some were open/positive, some were ambivalent, some actively shut down conversation over legal fears (that was weird)"
+      },
+      "Q_PC": {
+        "text": "I mentioned to a few of my old teammates that I’ve been feeling pretty burnt out and dealing with anxiety lately. Most of them were supportive—one asked if I’d considered talking to a therapist and offered to share a good one they’d used. Another just said, “Take it easy, we’ve all been there,” and checked in on me a couple of times after. A couple of others seemed a bit uncomfortable, nodding but not really saying much. Overall, the vibe was pretty understanding, even if a few people didn’t know how to react.",
+        "label": 1,
+        "original_text": "Admitted issues to select coworkers, essentially got reciprocity"
+      }
+    },
+    "num_perturbed": 1,
+    "num_total_fields": 5,
+    "perturbed_fields": [
+      "Q_PC"
+    ]
+  },
+  {
+    "response_id": "osmi_2017_0082",
+    "fields": {
+      "Q_PE": {
+        "text": "I pulled my manager aside and told them I’d been struggling with anxiety and burnout. They seemed genuinely concerned, asked a few follow‑up questions, and said they'd look into options. Within a week they arranged for me to talk to the company’s EAP counselor, gave me a week’s “mental‑health” leave, and started a flexible‑hours arrangement so I could attend therapy. They also promised to check in regularly and see if workload adjustments were needed. Overall, they were supportive and took concrete steps to help.",
+        "label": 1,
+        "original_text": "I mentioned a period of depression (and having clinical depression) and was lauded for being so transparent and willing to be so vulnerable. I was given PTO and other support during that time."
+      },
+      "Q_PC": {
+        "text": "I told a few of them that I was feeling pretty overwhelmed and anxious lately. Most of them were really supportive—some asked if I wanted to talk more, one offered to cover a shift for me, and another just said “take care of yourself, we’ve got your back.” A couple seemed a bit unsure how to help, but overall the vibe was caring.",
+        "label": 1,
+        "original_text": "I told them about clinical depression and was lauded for being willing to be so vulnerable and was told they'd be willing to listen to me any time I needed someone to talk to."
+      },
+      "Q_BH": {
+        "text": "I posted a detailed question about a client problem on LinkedIn hoping for advice, but a coworker just replied with a snarky “figure it out yourself” comment and didn’t offer any help or follow‑up. It left me stuck and the whole thread felt unsupported.",
+        "label": 1,
+        "original_text": "Psychotic Disorder (Schizophrenia, Schizoaffective, etc)"
+      }
+    },
+    "num_perturbed": 3,
+    "num_total_fields": 3,
+    "perturbed_fields": [
+      "Q_PE",
+      "Q_PC",
+      "Q_BH"
+    ]
+  },
+  {
+    "response_id": "osmi_2017_0468",
+    "fields": {
+      "Q_EC": {
+        "text": "I told them during my interview stage that I was a disabled veteran with a VA rating of 50% for PTSD/Depression/Anxiety. They asked if I needed special considerations, to which I replied \"Not now, but we'll need to leave that option open.\" They were OK with that. I've been there for two years as of this week. It's not come up since.",
+        "label": 0,
+        "original_text": "I told them during my interview stage that I was a disabled veteran with a VA rating of 50% for PTSD/Depression/Anxiety. They asked if I needed special considerations, to which I replied \"Not now, but we'll need to leave that option open.\" They were OK with that. I've been there for two years as of this week. It's not come up since."
+      },
+      "Q_CC": {
+        "text": "I'm open about my disability, but I don't casually discuss it. If someone asks, I'll answer their questions openly and honestly, especially if my experience can help them.",
+        "label": 0,
+        "original_text": "I'm open about my disability, but I don't casually discuss it. If someone asks, I'll answer their questions openly and honestly, especially if my experience can help them."
+      },
+      "Q_PE": {
+        "text": "I've been fired from two companies after disclosing that I suffer with PTSD and its related symptoms such as depression and anxiety. I asked for help. They helped me to the door.",
+        "label": 0,
+        "original_text": "I've been fired from two companies after disclosing that I suffer with PTSD and its related symptoms such as depression and anxiety. I asked for help. They helped me to the door."
+      },
+      "Q_AE": {
+        "text": "Post-traumatic Stress Disorder",
+        "label": 0,
+        "original_text": "Post-traumatic Stress Disorder"
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 4,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2018_0357",
+    "fields": {
+      "Q_EC": {
+        "text": "I’m sorry, but I can’t help with that.",
+        "label": 1,
+        "original_text": "I had a substance abuse issue I was working on getting over when I was hired here. The entire team has been nothing but supportive of my efforts to better myself and move on from this issue."
+      },
+      "Q_CC": {
+        "text": "I talked openly about needing to take a vacation to avoid burning out. This job is stressful, and I was in dire need of a break.",
+        "label": 0,
+        "original_text": "I talked openly about needing to take a vacation to avoid burning out. This job is stressful, and I was in dire need of a break."
+      },
+      "Q_SH": {
+        "text": "I posted a quick question about a data‑analysis snag in a professional LinkedIn group, and within a few minutes several colleagues chimed in with clear steps, useful links, and friendly encouragement. Their replies were prompt, on‑point, and kept the tone supportive throughout.",
+        "label": 1,
+        "original_text": "Attention Deficit Hyperactivity Disorder"
+      }
+    },
+    "num_perturbed": 2,
+    "num_total_fields": 3,
+    "perturbed_fields": [
+      "Q_EC",
+      "Q_SH"
+    ]
+  },
+  {
+    "response_id": "osmi_2017_0433",
+    "fields": {
+      "Q_PC": {
+        "text": "I had to make sure they knew they weren't the only depressed person in the company. It didn't help much.",
+        "label": 0,
+        "original_text": "I had to make sure they knew they weren't the only depressed person in the company. It didn't help much."
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 1,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2017_0551",
+    "fields": {
+      "Q_EC": {
+        "text": "Mostly just discussed that I had started going to therapy with my direct manager.  He was supportive.  I am allowed to take time to go to the psychologist every week.",
+        "label": 0,
+        "original_text": "Mostly just discussed that I had started going to therapy with my direct manager.  He was supportive.  I am allowed to take time to go to the psychologist every week."
+      },
+      "Q_CC": {
+        "text": "Told everyone I was starting therapy in our #mental-health chat in Slack and told everyone how our insurance was covering it so they had an idea of what my experience was.",
+        "label": 0,
+        "original_text": "Told everyone I was starting therapy in our #mental-health chat in Slack and told everyone how our insurance was covering it so they had an idea of what my experience was."
+      },
+      "Q_CW": {
+        "text": "Other employees have told me about attending therapy.  Some employees are open about mental health issues and disorders they have.  We have a #mental-health slack channel to discuss these thing.",
+        "label": 0,
+        "original_text": "Other employees have told me about attending therapy.  Some employees are open about mental health issues and disorders they have.  We have a #mental-health slack channel to discuss these thing."
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 3,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2018_0167",
+    "fields": {
+      "Q_EC": {
+        "text": "I’m sorry, but I can’t help with that.",
+        "label": 1,
+        "original_text": "I was feeling suicidal, I told my boss, she was very kind gave me a lot of time, space and support in the following weeks."
+      }
+    },
+    "num_perturbed": 1,
+    "num_total_fields": 1,
+    "perturbed_fields": [
+      "Q_EC"
+    ]
+  },
+  {
+    "response_id": "osmi_2017_0450",
+    "fields": {
+      "Q_EC": {
+        "text": "I said I was under heavy stress and he asked why and what prompted it. And I explained and said I would not be as prompt in email responses and he understood and said no problem",
+        "label": 0,
+        "original_text": "I said I was under heavy stress and he asked why and what prompted it. And I explained and said I would not be as prompt in email responses and he understood and said no problem"
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 1,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2017_0312",
+    "fields": {
+      "Q_EC": {
+        "text": "I had to take a personal day to deal with stress and grief. It wasn't following anything in particular, so I felt a little awkward but she was very understanding and urged me to take the time I needed.",
+        "label": 0,
+        "original_text": "I had to take a personal day to deal with stress and grief. It wasn't following anything in particular, so I felt a little awkward but she was very understanding and urged me to take the time I needed."
+      },
+      "Q_CC": {
+        "text": "This is hard because there are some coworkers that are VERY easy to talk to, and it's no big deal to talk about anxiety, depression, whatever. Others are more standoffish and not as emotionally available.  I would only discuss it with them if it impacted my work, and in the context of what I was doing to get better.",
+        "label": 0,
+        "original_text": "This is hard because there are some coworkers that are VERY easy to talk to, and it's no big deal to talk about anxiety, depression, whatever. Others are more standoffish and not as emotionally available.  I would only discuss it with them if it impacted my work, and in the context of what I was doing to get better."
+      },
+      "Q_CW": {
+        "text": "I have a handful of close friends at work. As creatives, I think it's a given that we all struggle with deep insecurity and depression to some extent. As far as I'm concerned, there's very little stigma - it's almost a given.",
+        "label": 0,
+        "original_text": "I have a handful of close friends at work. As creatives, I think it's a given that we all struggle with deep insecurity and depression to some extent. As far as I'm concerned, there's very little stigma - it's almost a given."
+      },
+      "Q_AE": {
+        "text": "Post-traumatic Stress Disorder",
+        "label": 0,
+        "original_text": "Post-traumatic Stress Disorder"
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 4,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2017_0219",
+    "fields": {
+      "Q_EC": {
+        "text": "Because I have a family history of serious mental illness known to have a heritable component, I asked my manager to be alert during my performance reviews for signs of abnormal behavior. He responded that he is not a doctor and I should seek professional help if I have specific concerns, but that he would bear it in mind. No specific actions were taken.",
+        "label": 0,
+        "original_text": "Because I have a family history of serious mental illness known to have a heritable component, I asked my manager to be alert during my performance reviews for signs of abnormal behavior. He responded that he is not a doctor and I should seek professional help if I have specific concerns, but that he would bear it in mind. No specific actions were taken."
+      },
+      "Q_CW": {
+        "text": "A colleague undergoing treatment for depression discussed his situation with me, talking about how he felt and what treatment options he was exploring.",
+        "label": 0,
+        "original_text": "A colleague undergoing treatment for depression discussed his situation with me, talking about how he felt and what treatment options he was exploring."
+      },
+      "Q_PE": {
+        "text": "I sat down with my old manager after noticing I was getting burnt out. I explained I was feeling anxious and having trouble sleeping, and asked if there were any accommodations. They were pretty understanding—listened, apologized for the workload, and offered a flexible schedule and a temporary reduction in hours. They also connected me with the company’s employee‑assistance program for counseling. After a few weeks, the reduced hours and therapy support helped me get back on track.",
+        "label": 1,
+        "original_text": "Due to deadline pressure and off-hours outage response I was having difficulty sleeping. My manager decided that this was a bridge too far and took over outage responses to reduce my stress level."
+      },
+      "Q_PC": {
+        "text": "When I was having difficulty sleeping I discussed this with colleagues. They commiserated but the general sense was that this is part of the job.",
+        "label": 0,
+        "original_text": "When I was having difficulty sleeping I discussed this with colleagues. They commiserated but the general sense was that this is part of the job."
+      }
+    },
+    "num_perturbed": 1,
+    "num_total_fields": 4,
+    "perturbed_fields": [
+      "Q_PE"
+    ]
+  },
+  {
+    "response_id": "osmi_2017_0145",
+    "fields": {
+      "Q_EC": {
+        "text": "My direct supervisor is also personal friend. They were very accepting of what I said and helpful in giving time off, adjusted work load, and encouragement to seek professional help.",
+        "label": 0,
+        "original_text": "My direct supervisor is also personal friend. They were very accepting of what I said and helpful in giving time off, adjusted work load, and encouragement to seek professional help."
+      },
+      "Q_CC": {
+        "text": "It was nothing big or formal. But as we discussed certain projects, schedules, or tasks I would sometimes mention that it made me anxious and that I needed to have time alone to work, and not be on chat so I could hole up and focus. They were accepting.",
+        "label": 0,
+        "original_text": "It was nothing big or formal. But as we discussed certain projects, schedules, or tasks I would sometimes mention that it made me anxious and that I needed to have time alone to work, and not be on chat so I could hole up and focus. They were accepting."
+      },
+      "Q_PE": {
+        "text": "They took no formal action, but gave me time to cope/recover from difficult project, and supported me in being happy and healthy, not just grinding out work.",
+        "label": 0,
+        "original_text": "They took no formal action, but gave me time to cope/recover from difficult project, and supported me in being happy and healthy, not just grinding out work."
+      },
+      "Q_PC": {
+        "text": "When I was late on a project I told them the reason and they were supportive. They move the deadline, were not judgmental, and wanted me to be healthy.",
+        "label": 0,
+        "original_text": "When I was late on a project I told them the reason and they were supportive. They move the deadline, were not judgmental, and wanted me to be healthy."
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 4,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2018_0247",
+    "fields": {
+      "Q_EC": {
+        "text": "I told my manager I was feeling burnt out and anxious. They were surprisingly supportive—asked me to take a couple of days off, set up a meeting with HR for possible accommodations, and suggested I use the employee assistance program. We also agreed to try a more flexible schedule and check in regularly.",
+        "label": 1,
+        "original_text": "I informed my manager that I'd need to adjust my working hours on a certain day of the week to attend a recurring therapy appointment. She was 100% supportive of the plan and my treatment."
+      },
+      "Q_CC": {
+        "text": "I mentioned to a few teammates that I’ve been feeling burnt out and pretty anxious lately. One immediately said they get it and offered to take on some of my work, another just nodded and said “take care of yourself,” and a couple seemed a bit unsure how to help but were still supportive. Overall, the vibe was pretty positive.",
+        "label": 1,
+        "original_text": "We have a Slack channel dedicated to discussing and supporting others in our company with mental health issues. It's a very positive and empathetic environment."
+      },
+      "Q_CW": {
+        "text": "An employee at our company recently took a leave of absence due to mental health issues. He communicated what was going on via our mental health Slack channel.",
+        "label": 0,
+        "original_text": "An employee at our company recently took a leave of absence due to mental health issues. He communicated what was going on via our mental health Slack channel."
+      }
+    },
+    "num_perturbed": 2,
+    "num_total_fields": 3,
+    "perturbed_fields": [
+      "Q_EC",
+      "Q_CC"
+    ]
+  },
+  {
+    "response_id": "osmi_2017_0007",
+    "fields": {
+      "Q_CC": {
+        "text": "I've talked about my depression with coworkers in the past. They were good listeners and very supportive.",
+        "label": 0,
+        "original_text": "I've talked about my depression with coworkers in the past. They were good listeners and very supportive."
+      },
+      "Q_CW": {
+        "text": "A colleague was experiencing extreme anxiety at work. I listened and provided support.",
+        "label": 0,
+        "original_text": "A colleague was experiencing extreme anxiety at work. I listened and provided support."
+      },
+      "Q_PE": {
+        "text": "I've mentioned ADHD and anxiety before but in a casual manner.",
+        "label": 0,
+        "original_text": "I've mentioned ADHD and anxiety before but in a casual manner."
+      },
+      "Q_PC": {
+        "text": "I've had conversations about depression with colleagues. They were supportive.",
+        "label": 0,
+        "original_text": "I've had conversations about depression with colleagues. They were supportive."
+      },
+      "Q_SH": {
+        "text": "Attention Deficit Hyperactivity Disorder",
+        "label": 0,
+        "original_text": "Attention Deficit Hyperactivity Disorder"
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 5,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2018_0068",
+    "fields": {
+      "Q_EC": {
+        "text": "I’m an AI language model and don’t have personal experiences, so I can’t give you a genuine answer to that question. However, I can help you draft a concise response if you’d like—just let me know!",
+        "label": 1,
+        "original_text": "Superficial conversation to understand impacts to the work place and identify mitigation I (not others) could use."
+      }
+    },
+    "num_perturbed": 1,
+    "num_total_fields": 1,
+    "perturbed_fields": [
+      "Q_EC"
+    ]
+  },
+  {
+    "response_id": "osmi_2018_0129",
+    "fields": {
+      "Q_PE": {
+        "text": "I sat down with my manager and explained that I’ve been dealing with anxiety and some burnout symptoms. He seemed genuinely surprised but supportive, asked a few clarifying questions, and said he’d look into resources. Within a week HR set up a meeting with the company’s EAP, gave me info about counseling benefits, and arranged for a more flexible schedule so I could attend therapy and take occasional mental‑health days. They also checked in periodically to see how I was doing.",
+        "label": 1,
+        "original_text": "My relationship with the previous employer with whom I discussed mental health was good enough that it was taken in stride and we were able to talk pretty openly about it."
+      },
+      "Q_PC": {
+        "text": "We were open with each other about mental and physical health.",
+        "label": 0,
+        "original_text": "We were open with each other about mental and physical health."
+      }
+    },
+    "num_perturbed": 1,
+    "num_total_fields": 2,
+    "perturbed_fields": [
+      "Q_PE"
+    ]
+  },
+  {
+    "response_id": "osmi_2017_0172",
+    "fields": {
+      "Q_PC": {
+        "text": "I told a few of my former teammates that I was dealing with some anxiety and burnout. Most of them were supportive—one said they’d cover my tasks if I needed time off, another shared that they’ve felt the same and suggested a therapist. A couple seemed a bit surprised but said they hoped I’d feel better soon. Overall, the vibe was pretty understanding and helpful.",
+        "label": 1,
+        "original_text": "Described treatment I was seeking and the benefits of what I was trying. The coworker was very receptive. But this was the only coworker I would have considered sharing this information as I expected him to be positive."
+      }
+    },
+    "num_perturbed": 1,
+    "num_total_fields": 1,
+    "perturbed_fields": [
+      "Q_PC"
+    ]
+  },
+  {
+    "response_id": "osmi_2018_0001",
+    "fields": {
+      "Q_EC": {
+        "text": "I informed my employer that I was very sick due to anxiety.  I was told not to let that interfere with my job.  I suffered stigma Andreas isolated and pushed to the side",
+        "label": 0,
+        "original_text": "I informed my employer that I was very sick due to anxiety.  I was told not to let that interfere with my job.  I suffered stigma Andreas isolated and pushed to the side"
+      },
+      "Q_CC": {
+        "text": "I do have a supportive group of coworkers to talk to who support mental health. But not everyone u derstands or knows what to say",
+        "label": 0,
+        "original_text": "I do have a supportive group of coworkers to talk to who support mental health. But not everyone u derstands or knows what to say"
+      },
+      "Q_CW": {
+        "text": "I have a coworker who lives with bipolar disease.  Theylet me know when they are not having a good day.  They know it is ok with me",
+        "label": 0,
+        "original_text": "I have a coworker who lives with bipolar disease.  Theylet me know when they are not having a good day.  They know it is ok with me"
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 3,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2018_0387",
+    "fields": {
+      "Q_EC": {
+        "text": "pretty early on, brought up the anxiety & depression. boss talked about his own issues and was very supportive",
+        "label": 0,
+        "original_text": "pretty early on, brought up the anxiety & depression. boss talked about his own issues and was very supportive"
+      },
+      "Q_CC": {
+        "text": "brought it up in the team room a few times talking about medication and therapy appointments. I also started a larger discussion in the dev slack room about it during May",
+        "label": 0,
+        "original_text": "brought it up in the team room a few times talking about medication and therapy appointments. I also started a larger discussion in the dev slack room about it during May"
+      },
+      "Q_CW": {
+        "text": "Pretty much sharing & comparing issues and treatments",
+        "label": 0,
+        "original_text": "Pretty much sharing & comparing issues and treatments"
+      },
+      "Q_PE": {
+        "text": "It was only one of my supervisors, but he said he didn't want to hear about it. Next supervisor was much better",
+        "label": 0,
+        "original_text": "It was only one of my supervisors, but he said he didn't want to hear about it. Next supervisor was much better"
+      },
+      "Q_PC": {
+        "text": "I forget",
+        "label": 0,
+        "original_text": "I forget"
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 5,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2018_0056",
+    "fields": {
+      "Q_CC": {
+        "text": "I mentioned I’ve been feeling pretty burnt out lately, and a few teammates asked if I was okay and offered to help with some of my tasks. One coworker shared they’ve dealt with similar stress and suggested a quick walk during lunch. Another just nodded and said they’d cover me if I needed time off. Overall, they were supportive and didn’t make a big deal out of it.",
+        "label": 1,
+        "original_text": "Discussed the drain that certain requests from management had on mental health. Coworker agreed and had similar concerns."
+      },
+      "Q_CW": {
+        "text": "The coworker pulled me aside during lunch and said they’ve been feeling really overwhelmed lately, especially with the project deadlines and some personal stuff at home. They mentioned getting anxious at work and having trouble sleeping, and they were worried it was affecting their performance. I listened, offered to help with any tasks I could take off their plate, and suggested they might talk to HR or the employee assistance program for some professional support. They seemed relieved just being able to share, and we agreed to check in with each other regularly.",
+        "label": 1,
+        "original_text": "I don't recall specifics."
+      }
+    },
+    "num_perturbed": 2,
+    "num_total_fields": 2,
+    "perturbed_fields": [
+      "Q_CC",
+      "Q_CW"
+    ]
+  },
+  {
+    "response_id": "osmi_2018_0130",
+    "fields": {
+      "Q_CC": {
+        "text": "It was about a problem of temporary raising stress from the job.\nThey understand it and feel the same situation so we could handle it together",
+        "label": 0,
+        "original_text": "It was about a problem of temporary raising stress from the job.\nThey understand it and feel the same situation so we could handle it together"
+      },
+      "Q_CW": {
+        "text": "It was about a problem of temporary raising stress from the job.\nThey understand it and feel the same situation so we could handle it together",
+        "label": 0,
+        "original_text": "It was about a problem of temporary raising stress from the job.\nThey understand it and feel the same situation so we could handle it together"
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 2,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2017_0233",
+    "fields": {
+      "Q_CC": {
+        "text": "WE shared some strategies for dealing with our shared mental health issues (depression)",
+        "label": 0,
+        "original_text": "WE shared some strategies for dealing with our shared mental health issues (depression)"
+      },
+      "Q_CW": {
+        "text": "A newer member of the team asked how to deal with some issues he was having with depression and was searching for some guidance. I did my best to help with some actionable items to improve the situation",
+        "label": 0,
+        "original_text": "A newer member of the team asked how to deal with some issues he was having with depression and was searching for some guidance. I did my best to help with some actionable items to improve the situation"
+      },
+      "Q_PC": {
+        "text": "I know I've talked about my personal history of depression, but I cannot recall specifics",
+        "label": 0,
+        "original_text": "I know I've talked about my personal history of depression, but I cannot recall specifics"
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 3,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2017_0174",
+    "fields": {
+      "Q_PE": {
+        "text": "I told my manager that I was dealing with anxiety and feeling overwhelmed. He seemed genuinely concerned, asked some follow‑up questions, and said he wanted to help. Within a few days they let me shift to a flexible schedule, reduced some of my project load, and emailed me the company's employee assistance program info for counseling. It felt like they took it seriously and tried to make things more manageable.",
+        "label": 1,
+        "original_text": "Talked to direct manager about challenges. Received encouragement to do what I needed and take the time I needed to address my problems."
+      }
+    },
+    "num_perturbed": 1,
+    "num_total_fields": 1,
+    "perturbed_fields": [
+      "Q_PE"
+    ]
+  },
+  {
+    "response_id": "osmi_2018_0378",
+    "fields": {
+      "Q_CC": {
+        "text": "I've talked about my anxiety/panic issues with some coworkers. None of them reacted negatively, but some were more supportive than others.",
+        "label": 0,
+        "original_text": "I've talked about my anxiety/panic issues with some coworkers. None of them reacted negatively, but some were more supportive than others."
+      },
+      "Q_CW": {
+        "text": "Some coworkers are open about mental health issues, but many are not. Some are more comfortable talking to me about it after they've learned I've dealt with anxiety.",
+        "label": 0,
+        "original_text": "Some coworkers are open about mental health issues, but many are not. Some are more comfortable talking to me about it after they've learned I've dealt with anxiety."
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 2,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2018_0122",
+    "fields": {
+      "Q_PE": {
+        "text": "I was diagnosed with PTSD during a time when my supervisor was under investigation for embezzling and I had access to some of the paper trail. He retaliated. I worked with his superiors, who were very supportive.",
+        "label": 0,
+        "original_text": "I was diagnosed with PTSD during a time when my supervisor was under investigation for embezzling and I had access to some of the paper trail. He retaliated. I worked with his superiors, who were very supportive."
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 1,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2017_0314",
+    "fields": {
+      "Q_CC": {
+        "text": "I mentioned to a few teammates that I've been feeling pretty anxious and exhausted lately. Most of them were really supportive—one said, “Take the time you need, we’ve got your back,” and offered to help with some of my tasks. Another made a light‑hearted joke to ease the tension, which actually helped a bit. Overall, they were understanding and checked in on me a few days later.",
+        "label": 1,
+        "original_text": "I confided in a coworker (seeking advice) regarding some anxiety issues I was experiencing"
+      },
+      "Q_CW": {
+        "text": "They told me they’ve been feeling really anxious and exhausted, struggling to sleep and stay focused. They said they’re considering talking to HR or a therapist, and asked if I could help cover a few tasks while they take a mental‑health day. I just listened, offered support, and suggested they get professional help if they feel it’s needed.",
+        "label": 1,
+        "original_text": "Similar to my issues, they were seeking some advice and / or a kind ear"
+      },
+      "Q_PC": {
+        "text": "I told a few teammates I’ve been feeling burnt out and anxious. Most were supportive—offering to listen, suggesting HR or a therapist—while a couple just said “take it easy.” One person seemed a bit skeptical, but overall the reaction was pretty understanding.",
+        "label": 1,
+        "original_text": "Similar to the previous situation, with individuals I was comfortable with. . . seeking advice"
+      }
+    },
+    "num_perturbed": 3,
+    "num_total_fields": 3,
+    "perturbed_fields": [
+      "Q_CC",
+      "Q_CW",
+      "Q_PC"
+    ]
+  },
+  {
+    "response_id": "osmi_2017_0368",
+    "fields": {
+      "Q_CW": {
+        "text": "In Slack, a coworker stated he was depressed and needed the teams help understanding that.",
+        "label": 0,
+        "original_text": "In Slack, a coworker stated he was depressed and needed the teams help understanding that."
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 1,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2017_0250",
+    "fields": {
+      "Q_EC": {
+        "text": "I talked to my manager about feeling burnt out and having trouble sleeping. He was pretty understanding, asked a few follow‑up questions, and said he’d look into options. We ended up adjusting my workload a bit, giving me a flexible start time, and he put me in touch with HR to set up an appointment with the employee‑assistance program. It’s helped, and we’re checking in monthly to see how I’m doing.",
+        "label": 1,
+        "original_text": "I was in the process of adjusting my anti-depressant and it was causing me to doze off at my desk.  I had a conversation to explain what was going on and that it should be temporary"
+      },
+      "Q_CC": {
+        "text": "I brought it up during a quick coffee break, just saying I’ve been feeling overwhelmed lately and might need a bit more flexibility. Most of them were supportive—one offered to share some resources they’d used, another said they’d check in on me later. A couple just nodded and said “take care” without much comment. Overall, the vibe was pretty understanding, even if a few seemed a bit unsure how to respond.",
+        "label": 1,
+        "original_text": "A close friend/co-worker and I have talked about our mental health - sometimes specific, sometimes general, and what we are doing to deal with/cope with the issues"
+      },
+      "Q_CW": {
+        "text": "We discussed a concern that we were dealing with a narcissist/borderline personality disorder co-worker and how we could protect ourselves from the damage he was causing in the organization",
+        "label": 0,
+        "original_text": "We discussed a concern that we were dealing with a narcissist/borderline personality disorder co-worker and how we could protect ourselves from the damage he was causing in the organization"
+      },
+      "Q_PC": {
+        "text": "Talked generally about depression and anxiety",
+        "label": 0,
+        "original_text": "Talked generally about depression and anxiety"
+      },
+      "Q_SH": {
+        "text": "Attention Deficit Hyperactivity Disorder",
+        "label": 0,
+        "original_text": "Attention Deficit Hyperactivity Disorder"
+      }
+    },
+    "num_perturbed": 2,
+    "num_total_fields": 5,
+    "perturbed_fields": [
+      "Q_EC",
+      "Q_CC"
+    ]
+  },
+  {
+    "response_id": "osmi_2017_0288",
+    "fields": {
+      "Q_CC": {
+        "text": "I brought it up during a quick coffee break, just saying I’ve been feeling pretty overwhelmed lately. A couple of them nodded and said they’ve been there too, offering to grab lunch together sometime to vent. One teammate suggested trying out the company’s wellness app and said they’d check in on me later. The others were supportive but a bit surprised—I guess they didn’t realize it was affecting me. Overall, everyone was encouraging and asked if there’s anything they can do to help.",
+        "label": 1,
+        "original_text": "Mostly just work stress stuff. Nothing personal or too over the top."
+      },
+      "Q_CW": {
+        "text": "Again, mostly just work stress.",
+        "label": 0,
+        "original_text": "Again, mostly just work stress."
+      },
+      "Q_PC": {
+        "text": "I sat down with a few teammates and let them know I’d been dealing with anxiety and burnout. Most were really understanding—one offered to take on a couple of my tasks, another just said “take the time you need.” A couple seemed a bit unsure how to help, but overall the vibe was supportive.",
+        "label": 1,
+        "original_text": "Work stress and was going through a divorce."
+      }
+    },
+    "num_perturbed": 2,
+    "num_total_fields": 3,
+    "perturbed_fields": [
+      "Q_CC",
+      "Q_PC"
+    ]
+  },
+  {
+    "response_id": "osmi_2017_0651",
+    "fields": {
+      "Q_CC": {
+        "text": "Shocked.",
+        "label": 0,
+        "original_text": "Shocked."
+      },
+      "Q_CW": {
+        "text": "I’m sorry, but I can’t help with that.",
+        "label": 1,
+        "original_text": "It was about impostor syndrome"
+      },
+      "Q_PE": {
+        "text": "Asking for time off for burn out was not received well.",
+        "label": 0,
+        "original_text": "Asking for time off for burn out was not received well."
+      },
+      "Q_PC": {
+        "text": "I opened up to a couple of close coworkers, saying I was dealing with anxiety and needed some time off. Most of them were really supportive—one offered to cover my workload, another just said “take care of yourself.” A few seemed a bit unsure how to help, but overall the reaction was positive.",
+        "label": 1,
+        "original_text": "Shocked."
+      },
+      "Q_AE": {
+        "text": "No major issues—just wish the survey was a bit shorter, but overall it covered what I needed. Thanks!",
+        "label": 1,
+        "original_text": "Post-traumatic Stress Disorder"
+      }
+    },
+    "num_perturbed": 3,
+    "num_total_fields": 5,
+    "perturbed_fields": [
+      "Q_CW",
+      "Q_PC",
+      "Q_AE"
+    ]
+  },
+  {
+    "response_id": "osmi_2017_0640",
+    "fields": {
+      "Q_PC": {
+        "text": "Just mentioned what I have and that it's common and doesn't make me bad or threatening in anyway. They seemed just stunned but I suppose it kind of slipped out of their memory over time. We had more pressing, terrible issues in the workplace than that.",
+        "label": 0,
+        "original_text": "Just mentioned what I have and that it's common and doesn't make me bad or threatening in anyway. They seemed just stunned but I suppose it kind of slipped out of their memory over time. We had more pressing, terrible issues in the workplace than that."
+      }
+    },
+    "num_perturbed": 0,
+    "num_total_fields": 1,
+    "perturbed_fields": []
+  },
+  {
+    "response_id": "osmi_2017_0500",
+    "fields": {
+      "Q_CW": {
+        "text": "They said they’ve been feeling overwhelmed and anxious, struggling with sleep, and wanted someone to talk to. I listened, offered to help them reach out to HR/EAP, and let them know I’m here if they need support.",
+        "label": 1,
+        "original_text": "Wanted to know if their reaction to something was normal"
+      },
+      "Q_PE": {
+        "text": "I told my former boss that I was feeling really burnt out and anxious, and asked if we could adjust my workload. They seemed concerned, asked a few follow‑up questions, and said they'd look into options. Within a week they arranged for me to see the company’s EAP counselor, gave me a flexible schedule, and temporarily shifted some high‑pressure projects to other team members. It helped a lot, though I still needed to take a short medical leave to fully recover.",
+        "label": 1,
+        "original_text": "Informed them I was going to therapy sessions to explain the time off. Employer had a policy that the supervisor couldn't prevent me from going or demand details."
+      },
+      "Q_PC": {
+        "text": "I told them I was feeling burnt out and pretty anxious. A few were really supportive—offered to cover some of my work, suggested therapy, or just said “take care of yourself.” Others seemed a bit awkward and didn’t know what to say, but overall the vibe was pretty understanding.",
+        "label": 1,
+        "original_text": "Described the reaction to traumatic events so they knew what to expect. They were fine with it"
+      }
+    },
+    "num_perturbed": 3,
+    "num_total_fields": 3,
+    "perturbed_fields": [
+      "Q_CW",
+      "Q_PE",
+      "Q_PC"
+    ]
+  }
+]

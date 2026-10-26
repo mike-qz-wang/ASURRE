@@ -1,0 +1,87 @@
+{
+  "source": "springer_2017.xlsx",
+  "description": "Springer Nature Social Media Survey 2017 - Global survey of researchers about social media use for research",
+  "attribution": "Springer Nature. Figshare DOI: 10.6084/m9.figshare.5028212",
+  "licence": "CC BY 4.0",
+  "year": 2017,
+  "header_rows": 2,
+  "data_starts_row": 3,
+  "total_rows": 5292,
+  "total_columns": 507,
+  "format": "xlsx",
+  "id_column": "V1",
+  "id_column_index": 0,
+  "note": "Pre-LLM era (2017) - all responses guaranteed human-written. No contamination risk.",
+  "attributes": {
+    "Q23": {
+      "label": "Are there any other tasks you use social media/ SCN for, in relation to your work?",
+      "type": "text",
+      "tier": "standard",
+      "column_index": 381,
+      "responses": 1306,
+      "response_rate": 0.247,
+      "max_length": 2091,
+      "note": "Open-ended, comparable to 2024 Q3.2.1"
+    },
+    "Q29": {
+      "label": "Do you have any comments on the usefulness of social media/ SCN as a resource for supporting research activity and development?",
+      "type": "text",
+      "tier": "optional",
+      "column_index": 409,
+      "responses": 697,
+      "response_rate": 0.132,
+      "max_length": 675,
+      "note": "Open-ended, comparable to 2024 Q4.9"
+    },
+    "Q37": {
+      "label": "Do you have any comments on the usefulness of social media/ SCN for the sharing of professional content?",
+      "type": "text",
+      "tier": "optional",
+      "column_index": 428,
+      "responses": 572,
+      "response_rate": 0.108,
+      "max_length": 647,
+      "note": "Open-ended, comparable to 2024 Q5.8"
+    },
+    "Q43": {
+      "label": "Do you have any comments on the usefulness of social media/ SCN for the promotion of professional content?",
+      "type": "text",
+      "tier": "optional",
+      "column_index": 452,
+      "responses": 495,
+      "response_rate": 0.094,
+      "max_length": 661,
+      "note": "Open-ended, no direct 2024 equivalent"
+    },
+    "Q47": {
+      "label": "Do you have any comments on the usefulness of social media/ SCN to network and/or collaborate with other researchers?",
+      "type": "text",
+      "tier": "optional",
+      "column_index": 460,
+      "responses": 479,
+      "response_rate": 0.091,
+      "max_length": 439,
+      "note": "Open-ended, comparable to 2024 Q6.4"
+    },
+    "Q63": {
+      "label": "Is there anything that would be useful for publishers to provide or improve which would help with your use of social media/ SCN for professional purposes?",
+      "type": "text",
+      "tier": "optional",
+      "column_index": 487,
+      "responses": 931,
+      "response_rate": 0.176,
+      "max_length": 821,
+      "note": "Open-ended, comparable to 2024 Q7.3.3"
+    },
+    "Q65": {
+      "label": "Do you have any further comments with regards to your use of social media/ SCN for professional purposes?",
+      "type": "text",
+      "tier": "optional",
+      "column_index": 488,
+      "responses": 832,
+      "response_rate": 0.157,
+      "max_length": 1248,
+      "note": "Open-ended, general comments"
+    }
+  }
+}

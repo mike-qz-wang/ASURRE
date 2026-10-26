@@ -1,0 +1,343 @@
+/* ASURRE browser — questionnaire vernacular. The person's own answer and the
+   models' versions of it are set in the same face at the same size, because
+   the point of the benchmark is that you cannot tell them apart by looking. */
+
+/* University of Melbourne palette. Colour names follow the university design
+   system (Traditional Heritage, Yam Daisy, Magpie); the hex values here are
+   working approximations — confirm them against the brand portal before this
+   goes public. */
+:root {
+  --heritage: #000f46;        /* Traditional Heritage (Blue) — primary */
+  --heritage-dark: #000a2e;   /* Traditional Heritage Dark */
+  --kookaburra: #2b6ea8;      /* Laughing Kookaburra (Light Blue) */
+  --yam-daisy: #946200;       /* Yam Daisy (Brown) — the warm accent */
+  --yam-daisy-light: #f2c75c; /* Yam Daisy (Yellow) */
+  --magpie-light: #e8e9ea;    /* Magpie (Light Grey) */
+  --magpie-dark: #6b7279;     /* Magpie (Dark Grey) */
+
+  --paper: #f7f7f8;
+  --paper-raised: #ffffff;
+  --ink: #15192b;
+  --ink-soft: #4d5663;
+  --ink-faint: #818a95;
+  --rule: #e2e4e7;
+  --rule-strong: #c7cbd1;
+
+  /* Heritage blue against Yam Daisy brown: the university's own pairing, and
+     blue/orange stays distinguishable under every common colour-vision
+     difference. Neither reads as "correct" or "wrong". */
+  --human: var(--heritage);
+  --human-wash: #eaedf5;
+  --machine: var(--yam-daisy);
+  --machine-wash: #faf2e0;
+
+  --focus: var(--kookaburra);
+  --sans: "Public Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --serif: "Newsreader", Georgia, "Times New Roman", serif;
+  --gutter: clamp(16px, 4vw, 40px);
+  --col: 860px;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    /* Heritage blue is too dark to carry text on a dark ground, so the light
+       Kookaburra blue takes over and Yam Daisy brightens to its yellow. */
+    --paper: #0b0f1e;
+    --paper-raised: #141a2e;
+    --ink: #e7e9ef;
+    --ink-soft: #a6aebd;
+    --ink-faint: #767f91;
+    --rule: #262d42;
+    --rule-strong: #39415a;
+    --human: #8fb8e0;
+    --human-wash: #16213a;
+    --machine: var(--yam-daisy-light);
+    --machine-wash: #2b2415;
+    --focus: #8fb8e0;
+  }
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--sans);
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+a { color: var(--human); }
+
+:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; border-radius: 2px; }
+
+/* ---------- masthead ---------- */
+
+.masthead {
+  border-bottom: 1px solid var(--rule-strong);
+  background: var(--paper-raised);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.masthead-inner {
+  max-width: var(--col);
+  margin: 0 auto;
+  padding: 14px var(--gutter);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 10px 28px;
+}
+
+.wordmark { display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; }
+.wordmark-name { font-weight: 700; font-size: 19px; letter-spacing: 0.06em; }
+.wordmark-expand { font-size: 13px; color: var(--ink-faint); }
+.wordmark-expand .u { color: var(--ink-soft); border-bottom: 1.5px solid var(--machine); padding-bottom: 1px; }
+
+.datasets { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+
+.datasets button {
+  font: inherit;
+  font-size: 13.5px;
+  font-weight: 500;
+  color: var(--ink-soft);
+  background: none;
+  border: 1px solid transparent;
+  border-radius: 3px;
+  padding: 5px 11px;
+  cursor: pointer;
+}
+
+.datasets button:hover { color: var(--ink); background: var(--paper); }
+
+.datasets button[aria-current="true"] {
+  color: var(--ink);
+  border-color: var(--rule-strong);
+  background: var(--paper);
+  font-weight: 600;
+}
+
+/* ---------- intro ---------- */
+
+.intro { max-width: var(--col); margin: 0 auto; padding: 32px var(--gutter) 0; }
+
+.intro-lede {
+  font-family: var(--serif);
+  font-size: clamp(19px, 2.3vw, 23px);
+  line-height: 1.45;
+  max-width: 34em;
+  margin: 0 0 10px;
+}
+
+.intro-sub { margin: 0; font-size: 13.5px; color: var(--ink-soft); }
+
+.intro-sub .sensitive {
+  display: block;
+  margin-top: 10px;
+  padding: 8px 12px;
+  border-left: 2px solid var(--machine);
+  background: var(--machine-wash);
+  color: var(--ink);
+  border-radius: 0 3px 3px 0;
+  max-width: 48em;
+}
+
+.views { margin-top: 22px; border-bottom: 1px solid var(--rule-strong); padding-bottom: 8px; }
+.views .scope { font-size: 12.5px; color: var(--ink-faint); font-variant-numeric: tabular-nums; }
+
+/* ---------- stage ---------- */
+
+.stage { max-width: var(--col); margin: 0 auto; padding: 0 var(--gutter) 64px; }
+
+/* ---------- pager ---------- */
+
+.pager {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 18px 0;
+  border-bottom: 1px solid var(--rule);
+}
+
+.pager button {
+  font: inherit;
+  font-size: 13.5px;
+  background: var(--paper-raised);
+  border: 1px solid var(--rule-strong);
+  border-radius: 3px;
+  color: var(--ink);
+  padding: 6px 14px;
+  cursor: pointer;
+}
+
+.pager button:hover:not([disabled]) { border-color: var(--ink-soft); }
+.pager button[disabled] { color: var(--ink-faint); cursor: not-allowed; opacity: 0.5; }
+
+.pager-count { font-size: 13.5px; color: var(--ink-soft); font-variant-numeric: tabular-nums; }
+/* Keep the identifier intact — breaking it mid-token reads as two values. */
+.pager-count .rid { color: var(--ink-faint); white-space: nowrap; }
+
+.pager-spacer { flex: 1 1 auto; }
+
+.notice {
+  margin: 16px 0 0;
+  padding: 10px 13px;
+  border-left: 2px solid var(--machine);
+  background: var(--machine-wash);
+  font-size: 13px;
+  color: var(--ink);
+  border-radius: 0 3px 3px 0;
+  max-width: 48em;
+}
+
+.pager-pick {
+  font-size: 11.5px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+}
+
+.pager select {
+  font: inherit;
+  font-size: 13.5px;
+  padding: 6px 9px;
+  border: 1px solid var(--rule-strong);
+  border-radius: 3px;
+  background: var(--paper-raised);
+  color: var(--ink);
+  max-width: 100%;
+}
+
+/* ---------- question blocks ---------- */
+
+.qblock, .qrow { padding: 26px 0 14px; border-bottom: 1px solid var(--rule); }
+
+/* A question nobody answered and no model touched stays in the sequence so the
+   two columns keep step, but it recedes. */
+.qrow.is-blank { opacity: 0.5; padding: 16px 0 10px; }
+.qrow.is-blank .qtext { font-size: 16px; }
+
+.sides {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0 28px;
+  align-items: start;
+}
+
+.qhead { margin-bottom: 16px; }
+.qid { font-size: 12px; font-weight: 700; letter-spacing: 0.06em; color: var(--ink-faint); }
+
+.qtext {
+  font-family: var(--serif);
+  font-size: clamp(18px, 2.2vw, 22px);
+  font-weight: 400;
+  line-height: 1.32;
+  margin: 3px 0 0;
+  max-width: 26em;
+}
+
+.answers { display: flex; flex-direction: column; gap: 2px; }
+
+.answer { border-left: 2px solid var(--rule); padding: 9px 0 11px 14px; }
+
+.answer-by {
+  font-size: 11.5px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  margin-bottom: 4px;
+}
+
+.answer-by .verb { font-weight: 400; letter-spacing: 0; color: var(--ink-faint); }
+
+.answer-text {
+  font-family: var(--serif);
+  font-size: 16.5px;
+  line-height: 1.55;
+  margin: 0;
+  white-space: pre-wrap;
+  overflow-wrap: break-word;
+  max-width: 40em;
+}
+
+.answer-len { font-size: 11.5px; color: var(--ink-faint); margin-top: 5px; font-variant-numeric: tabular-nums; }
+
+.answer.human { border-left-color: var(--human); }
+.answer.human .answer-by { color: var(--human); }
+
+.answer.machine { border-left-color: var(--machine); }
+.answer.machine .answer-by { color: var(--machine); }
+
+.answer.absent { border-left-style: dotted; }
+.answer.absent .answer-text { color: var(--ink-faint); font-style: italic; font-size: 14.5px; }
+.answer.absent-slot { border-left-color: transparent; }
+
+/* pooled agent rows sit two-up where there is room */
+.answers.pooled {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0 24px;
+  padding: 10px 0;
+  border-top: 1px solid var(--rule);
+}
+.answers.pooled:first-of-type { border-top: 0; }
+.answers.pooled .answer.human { background: none; margin-bottom: 0; }
+
+/* ---------- agent picker ---------- */
+
+.picker { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; padding: 20px 0 4px; }
+.picker label { font-size: 11.5px; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; color: var(--ink-faint); }
+
+.picker select {
+  font: inherit;
+  font-size: 13.5px;
+  padding: 6px 9px;
+  border: 1px solid var(--rule-strong);
+  border-radius: 3px;
+  background: var(--paper-raised);
+  color: var(--ink);
+  max-width: 100%;
+}
+
+.picker-note { font-size: 12.5px; color: var(--ink-soft); }
+
+/* ---------- empty ---------- */
+
+.empty { padding: 48px 0; color: var(--ink-soft); font-size: 14.5px; max-width: 36em; }
+.empty strong { color: var(--ink); display: block; margin-bottom: 4px; font-size: 16px; }
+
+/* ---------- colophon ---------- */
+
+.colophon { border-top: 1px solid var(--rule-strong); background: var(--paper-raised); }
+
+.colophon-inner {
+  max-width: var(--col);
+  margin: 0 auto;
+  padding: 26px var(--gutter) 40px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px 48px;
+  justify-content: space-between;
+  font-size: 13px;
+  color: var(--ink-soft);
+}
+
+.colophon p { margin: 0 0 7px; max-width: 46em; }
+.licences { color: var(--ink-faint); font-size: 12.5px; }
+.colophon-links { display: flex; flex-direction: column; gap: 5px; }
+
+/* ---------- responsive ---------- */
+
+@media (max-width: 620px) {
+  .answers.pooled, .sides { grid-template-columns: 1fr; gap: 10px; }
+  .pager { flex-wrap: wrap; gap: 10px; }
+  .pager-spacer { flex-basis: 100%; height: 0; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; animation: none !important; }
+}

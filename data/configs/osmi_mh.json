@@ -1,0 +1,95 @@
+{
+  "source": null,
+  "source_files": ["survey_2017.csv", "survey_2018.csv"],
+  "source_dir": "raw_all/Mental health in tech survey: Raw data 2014-2018",
+  "description": "OSMI Mental Health in Tech Survey 2017+2018 combined — tech workers on workplace mental health",
+  "attribution": "Open Sourcing Mental Illness (OSMI). osmihelp.org",
+  "licence": "CC BY-SA 4.0",
+  "year": "2017-2018",
+  "format": "csv",
+  "total_rows": 1173,
+  "total_columns": 95,
+  "note": "Pre-LLM era — all responses guaranteed human-written. 534 respondents have >=80 total chars across text fields.",
+  "attributes": {
+    "Q_EC": {
+      "label": "Describe the conversation you had with your employer about your mental health, including their reactions and what actions were taken to address your mental health issue/questions.",
+      "type": "text",
+      "tier": "standard",
+      "column_index": 14,
+      "responses": null,
+      "note": "Current employer conversation"
+    },
+    "Q_CC": {
+      "label": "Describe the conversation with coworkers you had about your mental health including their reactions.",
+      "type": "text",
+      "tier": "standard",
+      "column_index": 17,
+      "responses": null,
+      "note": "Current coworker conversation"
+    },
+    "Q_CW": {
+      "label": "Describe the conversation your coworker had with you about their mental health (please do not use names).",
+      "type": "text",
+      "tier": "standard",
+      "column_index": 19,
+      "responses": null,
+      "note": "Coworker shared their mental health with you"
+    },
+    "Q_PE": {
+      "label": "Describe the conversation you had with your previous employer about your mental health, including their reactions and actions taken to address your mental health issue/questions.",
+      "type": "text",
+      "tier": "standard",
+      "column_index": 40,
+      "responses": null,
+      "note": "Previous employer conversation"
+    },
+    "Q_PC": {
+      "label": "Describe the conversation you had with your previous coworkers about your mental health including their reactions.",
+      "type": "text",
+      "tier": "standard",
+      "column_index": 43,
+      "responses": null,
+      "note": "Previous coworker conversation"
+    },
+    "Q_CA": {
+      "label": "How has being identified as a person with a mental health issue affected your career?",
+      "type": "text",
+      "tier": "optional",
+      "column_index": 75,
+      "responses": null,
+      "note": "Career impact of mental health disclosure"
+    },
+    "Q_BH": {
+      "label": "Describe the circumstances of the badly handled or unsupportive response.",
+      "type": "text",
+      "tier": "optional",
+      "column_index": 78,
+      "responses": null,
+      "note": "Badly handled/unsupportive workplace response"
+    },
+    "Q_SH": {
+      "label": "Describe the circumstances of the supportive or well handled response.",
+      "type": "text",
+      "tier": "optional",
+      "column_index": 80,
+      "responses": null,
+      "note": "Supportive/well handled workplace response"
+    },
+    "Q_ID": {
+      "label": "Briefly describe what you think the industry as a whole and/or employers could do to improve mental health support for employees.",
+      "type": "text",
+      "tier": "optional",
+      "column_index": 82,
+      "responses": null,
+      "note": "Industry improvement suggestions"
+    },
+    "Q_AE": {
+      "label": "If there is anything else you would like to tell us that has not been covered by the survey questions, please use this space to do so.",
+      "type": "text",
+      "tier": "optional",
+      "column_index": 83,
+      "responses": null,
+      "note": "Open-ended additional comments"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "seed": 42,
+  "augment_ratio": 0.5,
+  "model": "Qwen/Qwen3.5-35B-A3B-FP8",
+  "augmentation_type": "full_generate",
+  "train_count": 427,
+  "test_count": 107,
+  "train_augmented": 213,
+  "test_augmented": 53
+}
